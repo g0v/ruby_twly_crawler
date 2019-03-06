@@ -180,7 +180,7 @@ def main
   merged_legislators.each do |l|
     l['each_term'].each do |term|
       if term['ad'].to_i == ad
-        term['id'] = l['uid']
+        term['uid'] = l['uid']
         term['identifiers'] = l['identifiers']
         term['ads'] = l['ads']
         term['former_names'] = l['former_names']

@@ -78,7 +78,7 @@
         "name": "高雄服務處"
       }
     ],
-    "id": 22,
+    "uid": 22,
     "identifiers": null,
     "ads": [
       1,
@@ -130,7 +130,7 @@
         "name": "臺中服務處"
       }
     ],
-    "id": 528,
+    "uid": 528,
     "identifiers": null,
     "ads": [
       1,
@@ -232,7 +232,7 @@
         "name": "新竹服務處"
       }
     ],
-    "id": 629,
+    "uid": 629,
     "identifiers": null,
     "ads": [
       2,
@@ -349,7 +349,7 @@
         "name": "新庄服務處"
       }
     ],
-    "id": 665,
+    "uid": 665,
     "identifiers": null,
     "ads": [
       2,
@@ -443,7 +443,7 @@
         "name": "院長辦公室"
       }
     ],
-    "id": 695,
+    "uid": 695,
     "identifiers": null,
     "ads": [
       2,
@@ -520,7 +520,7 @@
         "name": "新莊服務處"
       }
     ],
-    "id": 708,
+    "uid": 708,
     "identifiers": null,
     "ads": [
       3,
@@ -642,7 +642,7 @@
         "name": "高雄服務處"
       }
     ],
-    "id": 734,
+    "uid": 734,
     "identifiers": null,
     "ads": [
       3,
@@ -749,7 +749,7 @@
         "name": "桃園服務處"
       }
     ],
-    "id": 749,
+    "uid": 749,
     "identifiers": null,
     "ads": [
       3,
@@ -855,7 +855,7 @@
         "name": "民雄服務處"
       }
     ],
-    "id": 828,
+    "uid": 828,
     "identifiers": null,
     "ads": [
       4,
@@ -963,7 +963,7 @@
         "name": "竹南服務處"
       }
     ],
-    "id": 836,
+    "uid": 836,
     "identifiers": null,
     "ads": [
       4,
@@ -1079,7 +1079,7 @@
         "name": "中壢服務處"
       }
     ],
-    "id": 840,
+    "uid": 840,
     "identifiers": null,
     "ads": [
       4,
@@ -1184,7 +1184,7 @@
         "name": "新營服務處"
       }
     ],
-    "id": 855,
+    "uid": 855,
     "identifiers": null,
     "ads": [
       4,
@@ -1309,7 +1309,7 @@
         "name": "文山服務處"
       }
     ],
-    "id": 866,
+    "uid": 866,
     "identifiers": null,
     "ads": [
       4,
@@ -1434,7 +1434,7 @@
         "name": "台中服務處"
       }
     ],
-    "id": 869,
+    "uid": 869,
     "identifiers": null,
     "ads": [
       4,
@@ -1541,7 +1541,7 @@
         "name": "新店服務處"
       }
     ],
-    "id": 879,
+    "uid": 879,
     "identifiers": null,
     "ads": [
       4,
@@ -1644,7 +1644,7 @@
         "name": "泰山服務處"
       }
     ],
-    "id": 898,
+    "uid": 898,
     "identifiers": null,
     "ads": [
       5,
@@ -1753,7 +1753,7 @@
         "name": "大寮服務處"
       }
     ],
-    "id": 904,
+    "uid": 904,
     "identifiers": null,
     "ads": [
       5,
@@ -1878,7 +1878,7 @@
         "name": "永和服務處"
       }
     ],
-    "id": 908,
+    "uid": 908,
     "identifiers": null,
     "ads": [
       5,
@@ -1980,7 +1980,7 @@
         "name": "美濃服務處"
       }
     ],
-    "id": 913,
+    "uid": 913,
     "identifiers": null,
     "ads": [
       5,
@@ -2108,7 +2108,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 917,
+    "uid": 917,
     "identifiers": null,
     "ads": [
       5,
@@ -2228,7 +2228,7 @@
         "name": "三重服務處"
       }
     ],
-    "id": 923,
+    "uid": 923,
     "identifiers": null,
     "ads": [
       5,
@@ -2361,7 +2361,7 @@
         "name": ""
       }
     ],
-    "id": 926,
+    "uid": 926,
     "identifiers": null,
     "ads": [
       5,
@@ -2470,7 +2470,7 @@
         "name": "台東服務處"
       }
     ],
-    "id": 962,
+    "uid": 962,
     "identifiers": null,
     "ads": [
       5,
@@ -2577,7 +2577,7 @@
         "name": "高雄服務處"
       }
     ],
-    "id": 964,
+    "uid": 964,
     "identifiers": null,
     "ads": [
       5,
@@ -2681,7 +2681,7 @@
         "name": "花蓮服務處"
       }
     ],
-    "id": 981,
+    "uid": 981,
     "identifiers": null,
     "ads": [
       5,
@@ -2783,7 +2783,7 @@
         "name": "虎尾服務處"
       }
     ],
-    "id": 985,
+    "uid": 985,
     "identifiers": null,
     "ads": [
       5,
@@ -2874,7 +2874,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1312,
+    "uid": 1312,
     "identifiers": null,
     "ads": [
       6,
@@ -3019,7 +3019,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1315,
+    "uid": 1315,
     "identifiers": null,
     "ads": [
       6,
@@ -3119,7 +3119,7 @@
         "name": "中壢服務處"
       }
     ],
-    "id": 1321,
+    "uid": 1321,
     "identifiers": null,
     "ads": [
       6,
@@ -3233,7 +3233,7 @@
         "name": "福營服務處"
       }
     ],
-    "id": 1324,
+    "uid": 1324,
     "identifiers": null,
     "ads": [
       6,
@@ -3341,7 +3341,7 @@
         "name": "高雄服務處"
       }
     ],
-    "id": 1327,
+    "uid": 1327,
     "identifiers": null,
     "ads": [
       6,
@@ -3458,7 +3458,7 @@
         "name": "新竹縣服務處"
       }
     ],
-    "id": 1334,
+    "uid": 1334,
     "identifiers": null,
     "ads": [
       6,
@@ -3556,7 +3556,7 @@
         "name": "五股服務處"
       }
     ],
-    "id": 1337,
+    "uid": 1337,
     "identifiers": null,
     "ads": [
       6,
@@ -3644,7 +3644,7 @@
         "name": "新竹縣服務處"
       }
     ],
-    "id": 1343,
+    "uid": 1343,
     "identifiers": null,
     "ads": [
       6,
@@ -3755,7 +3755,7 @@
         "name": "青埔服務處"
       }
     ],
-    "id": 1349,
+    "uid": 1349,
     "identifiers": null,
     "ads": [
       6,
@@ -3872,7 +3872,7 @@
         "name": "桃園服務處"
       }
     ],
-    "id": 1362,
+    "uid": 1362,
     "identifiers": null,
     "ads": [
       6,
@@ -3987,7 +3987,7 @@
         "name": "服務處"
       }
     ],
-    "id": 1365,
+    "uid": 1365,
     "identifiers": null,
     "ads": [
       6,
@@ -4145,7 +4145,7 @@
         "name": "新營服務處"
       }
     ],
-    "id": 1367,
+    "uid": 1367,
     "identifiers": null,
     "ads": [
       6,
@@ -4262,7 +4262,7 @@
         "name": "內惟服務處"
       }
     ],
-    "id": 1374,
+    "uid": 1374,
     "identifiers": null,
     "ads": [
       6,
@@ -4371,7 +4371,7 @@
         "name": "大甲服務處"
       }
     ],
-    "id": 1377,
+    "uid": 1377,
     "identifiers": null,
     "ads": [
       6,
@@ -4487,7 +4487,7 @@
         "name": "龜山服務處"
       }
     ],
-    "id": 1381,
+    "uid": 1381,
     "identifiers": null,
     "ads": [
       6,
@@ -4599,7 +4599,7 @@
         "name": "安南區服務處"
       }
     ],
-    "id": 1708,
+    "uid": 1708,
     "identifiers": null,
     "ads": [
       7,
@@ -4682,7 +4682,7 @@
         "name": "屏東服務處"
       }
     ],
-    "id": 1717,
+    "uid": 1717,
     "identifiers": null,
     "ads": [
       7,
@@ -4791,7 +4791,7 @@
         "name": "屏東服務處"
       }
     ],
-    "id": 1718,
+    "uid": 1718,
     "identifiers": null,
     "ads": [
       7,
@@ -4879,7 +4879,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1722,
+    "uid": 1722,
     "identifiers": null,
     "ads": [
       7,
@@ -4987,7 +4987,7 @@
         "name": ""
       }
     ],
-    "id": 1723,
+    "uid": 1723,
     "identifiers": null,
     "ads": [
       7,
@@ -5105,7 +5105,7 @@
         "name": "草屯服務處"
       }
     ],
-    "id": 1724,
+    "uid": 1724,
     "identifiers": null,
     "ads": [
       7,
@@ -5228,7 +5228,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1728,
+    "uid": 1728,
     "identifiers": null,
     "ads": [
       8,
@@ -5355,7 +5355,7 @@
         "name": "和美服務處"
       }
     ],
-    "id": 1729,
+    "uid": 1729,
     "identifiers": null,
     "ads": [
       8,
@@ -5477,7 +5477,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1730,
+    "uid": 1730,
     "identifiers": null,
     "ads": [
       8,
@@ -5631,7 +5631,7 @@
         "name": "東勢服務處"
       }
     ],
-    "id": 1731,
+    "uid": 1731,
     "identifiers": null,
     "ads": [
       8,
@@ -5747,7 +5747,7 @@
         "name": "太平服務處"
       }
     ],
-    "id": 1733,
+    "uid": 1733,
     "identifiers": null,
     "ads": [
       8,
@@ -5868,7 +5868,7 @@
         "name": "龍潭服務處"
       }
     ],
-    "id": 1736,
+    "uid": 1736,
     "identifiers": null,
     "ads": [
       8,
@@ -5962,7 +5962,7 @@
         "name": "嘉義服務處"
       }
     ],
-    "id": 1738,
+    "uid": 1738,
     "identifiers": null,
     "ads": [
       8,
@@ -6124,7 +6124,7 @@
         "name": null
       }
     ],
-    "id": 1744,
+    "uid": 1744,
     "identifiers": null,
     "ads": [
       8,
@@ -6243,7 +6243,7 @@
         "name": "大同服務處"
       }
     ],
-    "id": 1745,
+    "uid": 1745,
     "identifiers": null,
     "ads": [
       8,
@@ -6347,7 +6347,7 @@
         "name": "鳳山服務處"
       }
     ],
-    "id": 1750,
+    "uid": 1750,
     "identifiers": null,
     "ads": [
       8,
@@ -6454,7 +6454,7 @@
         "name": "南竿服務處"
       }
     ],
-    "id": 1751,
+    "uid": 1751,
     "identifiers": null,
     "ads": [
       8,
@@ -6566,7 +6566,7 @@
         "name": "羅東服務處"
       }
     ],
-    "id": 1753,
+    "uid": 1753,
     "identifiers": null,
     "ads": [
       8,
@@ -6657,7 +6657,7 @@
         "name": "澎湖服務處"
       }
     ],
-    "id": 1759,
+    "uid": 1759,
     "identifiers": null,
     "ads": [
       8,
@@ -6761,7 +6761,7 @@
         "name": "高雄服務處"
       }
     ],
-    "id": 1761,
+    "uid": 1761,
     "identifiers": null,
     "ads": [
       8,
@@ -6881,7 +6881,7 @@
         "name": "縱谷服務處"
       }
     ],
-    "id": 1762,
+    "uid": 1762,
     "identifiers": null,
     "ads": [
       8,
@@ -6996,7 +6996,7 @@
         "name": "花蓮服務處"
       }
     ],
-    "id": 1763,
+    "uid": 1763,
     "identifiers": null,
     "ads": [
       8,
@@ -7063,7 +7063,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1764,
+    "uid": 1764,
     "identifiers": null,
     "ads": [
       8,
@@ -7187,7 +7187,7 @@
         "name": "龍井服務處"
       }
     ],
-    "id": 1803,
+    "uid": 1803,
     "identifiers": null,
     "ads": [
       8,
@@ -7298,7 +7298,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1804,
+    "uid": 1804,
     "identifiers": null,
     "ads": [
       8,
@@ -7403,7 +7403,7 @@
         "name": "台中服務處"
       }
     ],
-    "id": 1808,
+    "uid": 1808,
     "identifiers": null,
     "ads": [
       8,
@@ -7515,7 +7515,7 @@
         "name": "社頭服務處"
       }
     ],
-    "id": 1809,
+    "uid": 1809,
     "identifiers": null,
     "ads": [
       8,
@@ -7623,7 +7623,7 @@
         "name": "頭份服務處"
       }
     ],
-    "id": 1810,
+    "uid": 1810,
     "identifiers": null,
     "ads": [
       8,
@@ -7726,7 +7726,7 @@
         "name": "南投服務處"
       }
     ],
-    "id": 1811,
+    "uid": 1811,
     "identifiers": null,
     "ads": [
       8,
@@ -7851,7 +7851,7 @@
         "name": "琉球服務處"
       }
     ],
-    "id": 1812,
+    "uid": 1812,
     "identifiers": null,
     "ads": [
       8,
@@ -7987,7 +7987,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1814,
+    "uid": 1814,
     "identifiers": null,
     "ads": [
       9
@@ -8104,7 +8104,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1815,
+    "uid": 1815,
     "identifiers": null,
     "ads": [
       9
@@ -8224,7 +8224,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1816,
+    "uid": 1816,
     "identifiers": null,
     "ads": [
       9
@@ -8296,7 +8296,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1817,
+    "uid": 1817,
     "identifiers": null,
     "ads": [
       9
@@ -8403,7 +8403,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1818,
+    "uid": 1818,
     "identifiers": null,
     "ads": [
       9
@@ -8517,7 +8517,7 @@
         "name": "樂合服務處"
       }
     ],
-    "id": 1819,
+    "uid": 1819,
     "identifiers": null,
     "ads": [
       9
@@ -8626,7 +8626,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1820,
+    "uid": 1820,
     "identifiers": null,
     "ads": [
       9
@@ -8743,7 +8743,7 @@
         "name": "苗栗服務處"
       }
     ],
-    "id": 1821,
+    "uid": 1821,
     "identifiers": null,
     "ads": [
       9
@@ -8858,7 +8858,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1822,
+    "uid": 1822,
     "identifiers": null,
     "ads": [
       9
@@ -8977,7 +8977,7 @@
         "name": "屏東服務處"
       }
     ],
-    "id": 1823,
+    "uid": 1823,
     "identifiers": null,
     "ads": [
       9
@@ -9078,7 +9078,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1824,
+    "uid": 1824,
     "identifiers": null,
     "ads": [
       9
@@ -9242,7 +9242,7 @@
         "name": "高雄服務處"
       }
     ],
-    "id": 1825,
+    "uid": 1825,
     "identifiers": null,
     "ads": [
       9
@@ -9336,7 +9336,7 @@
         "name": "員林服務處"
       }
     ],
-    "id": 1826,
+    "uid": 1826,
     "identifiers": null,
     "ads": [
       9
@@ -9427,7 +9427,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1827,
+    "uid": 1827,
     "identifiers": null,
     "ads": [
       9
@@ -9570,7 +9570,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1828,
+    "uid": 1828,
     "identifiers": null,
     "ads": [
       9
@@ -9669,7 +9669,7 @@
         "name": "花蓮服務處"
       }
     ],
-    "id": 1829,
+    "uid": 1829,
     "identifiers": null,
     "ads": [
       9
@@ -9784,7 +9784,7 @@
         "name": "玉井服務處"
       }
     ],
-    "id": 1830,
+    "uid": 1830,
     "identifiers": null,
     "ads": [
       9
@@ -9905,7 +9905,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1831,
+    "uid": 1831,
     "identifiers": null,
     "ads": [
       9
@@ -10019,7 +10019,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1832,
+    "uid": 1832,
     "identifiers": null,
     "ads": [
       9
@@ -10116,7 +10116,7 @@
         "name": "北投服務處"
       }
     ],
-    "id": 1833,
+    "uid": 1833,
     "identifiers": null,
     "ads": [
       9
@@ -10230,7 +10230,7 @@
         "name": "【法律服務時間】"
       }
     ],
-    "id": 1834,
+    "uid": 1834,
     "identifiers": null,
     "ads": [
       9
@@ -10362,7 +10362,7 @@
         "name": "內湖服務處"
       }
     ],
-    "id": 1835,
+    "uid": 1835,
     "identifiers": null,
     "ads": [
       9
@@ -10456,7 +10456,7 @@
         "name": "中正萬華服務處"
       }
     ],
-    "id": 1836,
+    "uid": 1836,
     "identifiers": null,
     "ads": [
       9
@@ -10575,7 +10575,7 @@
         "name": "泰山區"
       }
     ],
-    "id": 1837,
+    "uid": 1837,
     "identifiers": null,
     "ads": [
       9
@@ -10683,7 +10683,7 @@
         "name": "新莊西盛服務處"
       }
     ],
-    "id": 1838,
+    "uid": 1838,
     "identifiers": null,
     "ads": [
       9
@@ -10780,7 +10780,7 @@
         "name": "板橋文化路服務處"
       }
     ],
-    "id": 1839,
+    "uid": 1839,
     "identifiers": null,
     "ads": [
       9
@@ -10886,7 +10886,7 @@
         "name": "板橋服務處"
       }
     ],
-    "id": 1840,
+    "uid": 1840,
     "identifiers": null,
     "ads": [
       9
@@ -10988,7 +10988,7 @@
         "name": "中和服務處"
       }
     ],
-    "id": 1841,
+    "uid": 1841,
     "identifiers": null,
     "ads": [
       9
@@ -11092,7 +11092,7 @@
         "name": "三峽服務處"
       }
     ],
-    "id": 1842,
+    "uid": 1842,
     "identifiers": null,
     "ads": [
       9
@@ -11198,7 +11198,7 @@
         "name": "金萬服務處"
       }
     ],
-    "id": 1843,
+    "uid": 1843,
     "identifiers": null,
     "ads": [
       9
@@ -11328,7 +11328,7 @@
         "name": "新屋區服務處"
       }
     ],
-    "id": 1844,
+    "uid": 1844,
     "identifiers": null,
     "ads": [
       9
@@ -11419,7 +11419,7 @@
         "name": "八德服務處"
       }
     ],
-    "id": 1845,
+    "uid": 1845,
     "identifiers": null,
     "ads": [
       9
@@ -11526,7 +11526,7 @@
         "name": "后里服務處"
       }
     ],
-    "id": 1846,
+    "uid": 1846,
     "identifiers": null,
     "ads": [
       9
@@ -11628,7 +11628,7 @@
         "name": "台中服務處"
       }
     ],
-    "id": 1847,
+    "uid": 1847,
     "identifiers": null,
     "ads": [
       9
@@ -11735,7 +11735,7 @@
         "name": "安平、南區服務處"
       }
     ],
-    "id": 1848,
+    "uid": 1848,
     "identifiers": null,
     "ads": [
       9
@@ -11844,7 +11844,7 @@
         "name": "南關線服務處"
       }
     ],
-    "id": 1849,
+    "uid": 1849,
     "identifiers": null,
     "ads": [
       9
@@ -11951,7 +11951,7 @@
         "name": "前鎮服務處"
       }
     ],
-    "id": 1850,
+    "uid": 1850,
     "identifiers": null,
     "ads": [
       9
@@ -12042,7 +12042,7 @@
         "name": "彰化服務處"
       }
     ],
-    "id": 1851,
+    "uid": 1851,
     "identifiers": null,
     "ads": [
       9
@@ -12143,7 +12143,7 @@
         "name": "北斗服務處"
       }
     ],
-    "id": 1852,
+    "uid": 1852,
     "identifiers": null,
     "ads": [
       9
@@ -12270,7 +12270,7 @@
         "name": "義竹服務處"
       }
     ],
-    "id": 1853,
+    "uid": 1853,
     "identifiers": null,
     "ads": [
       9
@@ -12370,7 +12370,7 @@
         "name": "屏東服務處"
       }
     ],
-    "id": 1854,
+    "uid": 1854,
     "identifiers": null,
     "ads": [
       9
@@ -12479,7 +12479,7 @@
         "name": "基隆服務處"
       }
     ],
-    "id": 1855,
+    "uid": 1855,
     "identifiers": null,
     "ads": [
       9
@@ -12593,7 +12593,7 @@
         "name": "臺南服務處"
       }
     ],
-    "id": 1856,
+    "uid": 1856,
     "identifiers": null,
     "ads": [
       9
@@ -12702,7 +12702,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1857,
+    "uid": 1857,
     "identifiers": null,
     "ads": [
       9
@@ -12827,7 +12827,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1858,
+    "uid": 1858,
     "identifiers": null,
     "ads": [
       9
@@ -12932,7 +12932,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1859,
+    "uid": 1859,
     "identifiers": null,
     "ads": [
       9
@@ -13035,7 +13035,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1860,
+    "uid": 1860,
     "identifiers": null,
     "ads": [
       9
@@ -13098,7 +13098,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1861,
+    "uid": 1861,
     "identifiers": null,
     "ads": [
       9
@@ -13155,7 +13155,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1862,
+    "uid": 1862,
     "identifiers": null,
     "ads": [
       9
@@ -13208,7 +13208,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1863,
+    "uid": 1863,
     "identifiers": null,
     "ads": [
       9
@@ -13270,7 +13270,7 @@
         "name": "國會研究室"
       }
     ],
-    "id": 1864,
+    "uid": 1864,
     "identifiers": null,
     "ads": [
       9
@@ -13326,7 +13326,7 @@
         "name": "士林服務處"
       }
     ],
-    "id": 1865,
+    "uid": 1865,
     "identifiers": null,
     "ads": [
       9
