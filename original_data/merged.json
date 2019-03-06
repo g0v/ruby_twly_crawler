@@ -612,6 +612,11 @@
             "chair": false,
             "name": "外交及國防委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "外交及國防委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -18368,6 +18373,11 @@
             "chair": false,
             "name": "司法及法制委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "司法及法制委員會",
+            "session": 2
         }],
         "constituency": "新竹市選舉區",
         "contacts": [{
@@ -22305,6 +22315,16 @@
             "chair": true,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "內政委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -22315,7 +22335,7 @@
         }, {
             "address": "813高雄市左營區新庄仔路425號",
             "fax": "07-341-2672",
-            "name": "高雄服務處",
+            "name": "新庄服務處",
             "phone": "07-341-3361"
         }],
         "education": ["國立中山大學高階經營碩士", "高雄醫學大學藥學系", "省立臺南女中"],
@@ -23384,7 +23404,7 @@
             "session": 8
         }, {
             "ad": 8,
-            "chair": false,
+            "chair": true,
             "name": "紀律委員會",
             "session": 8
         }],
@@ -24868,12 +24888,17 @@
             "chair": false,
             "name": "外交及國防委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "外交及國防委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
             "address": "10051臺北市中正區中山南路1號",
             "fax": "02-2395-5317",
-            "name": "國會辦公室",
+            "name": "院長辦公室",
             "phone": "02-2358-6011"
         }],
         "education": ["國立中山大學公共事務管理碩士", "國立海洋大學食品科學系學士"],
@@ -26174,26 +26199,11 @@
     }, {
         "ad": 9,
         "caucus": "民主進步黨",
-        "committees": [{
-            "ad": 9,
-            "chair": false,
-            "name": "財政委員會",
-            "session": 1
-        }],
+        "committees": [],
         "constituency": "全國不分區",
-        "contacts": [{
-            "address": "10051臺北市中正區濟南路1段3-1號0701室",
-            "fax": "02-2358-8160",
-            "name": "國會研究室",
-            "phone": "02-2358-8156"
-        }, {
-            "address": "雲林縣虎尾鎮光復路505號",
-            "name": "虎尾服務處",
-            "phone": "05-636-5296;05-636-5396"
-        }],
-        "education": ["美國北卡羅來納大學哲學博士", "台大公共衛生學研究所碩士", "台大公共衛生學系學士"],
+        "education": ["崙背國小", "虎尾初中", "台中一中", "台大公共衛生學系學士、碩士", "哈佛大學醫管碩士", "美國北卡醫療經濟學博士"],
         "elected_party": "民主進步黨",
-        "experience": ["第3、4、8屆立法委員", "行政院秘書長", "駐美副代表 ", "勞工委員會主任委員"],
+        "experience": ["立法委員", "駐美副代表 ", "行政院秘書長", "行政院勞工委員會主任委員", "行政院政務委員"],
         "gender": "男",
         "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90023.jpg",
         "in_office": true,
@@ -26202,6 +26212,11 @@
         },
         "name": "李應元",
         "party": "民主進步黨",
+        "term_end": {
+            "date": "2016-05-20",
+            "reason": "辭職。",
+            "replacement": "施義芳"
+        },
         "term_start": "2016-02-01",
         "title": "立法委員"
     }],
@@ -29178,6 +29193,16 @@
             "chair": true,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "內政委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -29186,7 +29211,7 @@
             "name": "國會研究室",
             "phone": "02-2358-8566"
         }, {
-            "address": "高雄市三民區九如一路399號",
+            "address": "高雄市三民區九如一路395號",
             "fax": "07-382-5177",
             "name": "高雄服務處",
             "phone": "07-382-5189"
@@ -30426,7 +30451,7 @@
         "caucus": "民主進步黨",
         "committees": [],
         "constituency": "桃園縣",
-        "education": ["中興大學公巷行政系", "中興大學公共政策研究所碩士"],
+        "education": ["中興大學公共行政系", "中興大學公共政策研究所碩士"],
         "elected_party": "民主進步黨",
         "experience": ["1.民進黨中央黨部秘書處主任", "2.民進黨桃園縣黨部主委", "3.民進黨全國主委聯誼會會長", "4.國大代表", "5.立法委員", "6.立法院交通、教育委員會程序委員", "7.立法院法制、程序委員會召集委員", "8.國民大會主席團主席、審查會召集人"],
         "gender": "男",
@@ -30464,7 +30489,7 @@
             "session": 6
         }],
         "constituency": "桃園縣",
-        "education": ["中興大學公巷行政系", "中興大學公共政策研究所碩士", "\t "],
+        "education": ["中興大學公共行政系", "中興大學公共政策研究所碩士"],
         "elected_party": "民主進步黨",
         "experience": ["1.民進黨中央黨部秘書處主任", "2.民進黨桃園縣黨部主委", "3.民進黨全國主委聯誼會會長", "4.國大代表", "5.立法委員", "6.立法院交通、教育委員會程序委員", "7.立法院法制、程序委員會召集委員", "8.第四屆第三會期民進黨立法院黨團總召集人"],
         "gender": "男",
@@ -30485,6 +30510,11 @@
             "chair": false,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "交通委員會",
+            "session": 2
         }],
         "constituency": "桃園市第4選舉區",
         "contacts": [{
@@ -39151,6 +39181,11 @@
             "chair": false,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "嘉義縣第2選舉區",
         "contacts": [{
@@ -39159,10 +39194,15 @@
             "name": "國會研究室",
             "phone": "02-2358-8101"
         }, {
-            "address": "600嘉義市力行街72號",
+            "address": "600嘉義市民族路909號",
             "fax": "05-225-1641",
             "name": "嘉義服務處",
             "phone": "05-225-5589"
+        }, {
+            "address": "嘉義縣民雄鄉東榮村文化路24-1號",
+            "fax": "05-226-4711",
+            "name": "民雄服務處",
+            "phone": "05-226-0502"
         }],
         "education": ["私立東海大學哲學系畢業"],
         "elected_party": "民主進步黨",
@@ -40265,6 +40305,16 @@
             "chair": false,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "內政委員會",
+            "session": 2
         }],
         "constituency": "苗栗縣第1選舉區",
         "contacts": [{
@@ -40870,8 +40920,23 @@
         "committees": [{
             "ad": 9,
             "chair": true,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
             "name": "教育及文化委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "教育及文化委員會",
+            "session": 2
         }],
         "constituency": "桃園市第3選舉區",
         "contacts": [{
@@ -40881,7 +40946,9 @@
             "phone": "02-2358-6699"
         }, {
             "address": "桃園縣中壢市中央西路二段281號4樓",
-            "name": "中壢服務處"
+            "fax": "03-491-8270",
+            "name": "中壢服務處",
+            "phone": "03-491-5550"
         }],
         "education": ["建國中學", "國立臺灣大學政治學系學士", "淡江大學中國大陸研究所碩士"],
         "elected_party": "中國國民黨",
@@ -43124,9 +43191,19 @@
         "caucus": "民主進步黨",
         "committees": [{
             "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
             "chair": true,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "交通委員會",
+            "session": 2
         }],
         "constituency": "臺南市第1選舉區",
         "contacts": [{
@@ -43140,9 +43217,10 @@
             "name": "新營服務處",
             "phone": "06-657-2808"
         }, {
-            "address": "臺南市安平區健康路三段206號",
-            "name": "安平服務處",
-            "phone": "06-295-0826;06-295-0829"
+            "address": "臺南市中西區成功路305號",
+            "fax": "06-221-9027",
+            "name": "成功服務處",
+            "phone": "06-221-6027"
         }],
         "education": ["美國Bridgeport大學音樂碩士"],
         "elected_party": "民主進步黨",
@@ -45388,6 +45466,26 @@
             "chair": false,
             "name": "財政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "財政委員會",
+            "session": 2
         }],
         "constituency": "臺北市第8選舉區",
         "contacts": [{
@@ -46177,6 +46275,26 @@
             "chair": true,
             "name": "財政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經費稽核委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經費稽核委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "財政委員會",
+            "session": 2
         }],
         "constituency": "臺中市第5選舉區",
         "contacts": [{
@@ -47525,6 +47643,11 @@
             "chair": false,
             "name": "財政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "財政委員會",
+            "session": 2
         }],
         "constituency": "新北市第11選舉區",
         "contacts": [{
@@ -49870,6 +49993,11 @@
             "chair": false,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "交通委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -50864,6 +50992,16 @@
             "chair": true,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "高雄市第4選舉區",
         "contacts": [{
@@ -51535,6 +51673,21 @@
             "chair": false,
             "name": "司法及法制委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "司法及法制委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
         }],
         "constituency": "新北市第9選舉區",
         "contacts": [{
@@ -52314,6 +52467,11 @@
             "chair": false,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "高雄市第1選舉區",
         "contacts": [{
@@ -53013,8 +53171,28 @@
         "committees": [{
             "ad": 9,
             "chair": true,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
             "name": "司法及法制委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "司法及法制委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "程序委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -54275,6 +54453,11 @@
             "chair": false,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "新北市第3選舉區",
         "contacts": [{
@@ -54755,8 +54938,23 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "經費稽核委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "教育及文化委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經費稽核委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "教育及文化委員會",
+            "session": 2
         }],
         "constituency": "山地原住民",
         "contacts": [{
@@ -58927,6 +59125,11 @@
             "chair": false,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "平地原住民",
         "contacts": [{
@@ -59116,6 +59319,16 @@
             "chair": true,
             "name": "外交及國防委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "外交及國防委員會",
+            "session": 2
         }],
         "constituency": "高雄市第3選舉區",
         "contacts": [{
@@ -59124,10 +59337,10 @@
             "name": "國會研究室",
             "phone": "02-2358-6066"
         }, {
-            "address": "高雄市左營區新社仔路85號",
-            "fax": "07-343-9961",
+            "address": "高雄市左營區站前北路12號",
+            "fax": "07-588-5320",
             "name": "高雄服務處",
-            "phone": "07-343-9960"
+            "phone": "07-588-7500"
         }],
         "education": ["美國奧克拉荷馬州州立大學環境工程碩士", "淡江大學化學工程系學士"],
         "elected_party": "民主進步黨",
@@ -61416,7 +61629,7 @@
             "session": 6
         }, {
             "ad": 8,
-            "chair": false,
+            "chair": true,
             "name": "紀律委員會",
             "session": 7
         }, {
@@ -61452,6 +61665,11 @@
             "chair": false,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "交通委員會",
+            "session": 2
         }],
         "constituency": "花蓮縣選舉區",
         "contacts": [{
@@ -61460,7 +61678,7 @@
             "name": "國會研究室",
             "phone": "02-2358-6176"
         }, {
-            "address": "花蓮縣花蓮市中山路123號",
+            "address": "花蓮縣花蓮市國聯一路171號",
             "fax": "03-832-5008",
             "name": "花蓮服務處",
             "phone": "03-834-5353"
@@ -61945,6 +62163,11 @@
             "chair": false,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "雲林縣第1選舉區",
         "contacts": [{
@@ -67392,6 +67615,11 @@
             "chair": false,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "山地原住民",
         "contacts": [{
@@ -67635,6 +67863,26 @@
             "chair": false,
             "name": "財政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "財政委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -68316,6 +68564,11 @@
             "chair": false,
             "name": "教育及文化委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "教育及文化委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -68323,6 +68576,11 @@
             "fax": "02-2358-6415",
             "name": "國會研究室",
             "phone": "02-2358-6411"
+        }, {
+            "address": "桃園市中壢區中正路131號",
+            "fax": "03-280-5399",
+            "name": "中壢服務處",
+            "phone": "03-280-5398"
         }],
         "education": ["哈佛大學法學碩士", "臺灣大學法律研究所碩士", "臺灣大學法律系畢業"],
         "elected_party": "中國國民黨",
@@ -68888,6 +69146,11 @@
             "chair": false,
             "name": "財政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "財政委員會",
+            "session": 2
         }],
         "constituency": "新北市第4選舉區",
         "contacts": [{
@@ -68906,7 +69169,7 @@
             "name": "大新莊服務處",
             "phone": "02-2276-8287"
         }, {
-            "address": "新北市新莊區後港一路130巷48號1樓",
+            "address": "新北市新莊區後港一路130巷17號1樓",
             "fax": "02-2208-3853",
             "name": "福營服務處",
             "phone": "02-2208-3852"
@@ -69224,6 +69487,16 @@
             "chair": false,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "交通委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 2
         }],
         "constituency": "高雄市第6選舉區",
         "contacts": [{
@@ -69849,6 +70122,16 @@
             "chair": true,
             "name": "司法及法制委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "司法及法制委員會",
+            "session": 2
         }],
         "constituency": "新竹縣選舉區",
         "contacts": [{
@@ -70188,6 +70471,16 @@
             "chair": true,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "新北市第2選舉區",
         "contacts": [{
@@ -70201,9 +70494,9 @@
             "name": "蘆洲服務處",
             "phone": "02-8285-6412"
         }, {
-            "address": "臺北縣五股鄉民義路一段37號",
+            "address": "新北市五股區民義路一段37號",
             "fax": "02-2291-2355",
-            "name": "五服服務處",
+            "name": "五股服務處",
             "phone": "02-2291-2995"
         }],
         "education": [],
@@ -71085,14 +71378,18 @@
             "chair": true,
             "name": "財政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "經費稽核委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 1
         }],
         "constituency": "全國不分區",
-        "contacts": [{
-            "address": "10051臺北市中正區濟南路1段3-1號2106室",
-            "fax": "02-2358-6120",
-            "name": "國會研究室",
-            "phone": "02-2358-6118"
-        }],
         "education": ["省立台北師專啟智教育組畢業", "國立中興大學法律系法學士", "國立台灣海洋大學海洋法律研究所法學碩士、法學博士"],
         "elected_party": "民主進步黨",
         "experience": ["教師", "律師", "臺北市議員", "立法委員", "電視、電台節目主持人", "國際獅子會300A2區總監(2005-2006)"],
@@ -71104,6 +71401,11 @@
         },
         "name": "徐國勇",
         "party": "民主進步黨",
+        "term_end": {
+            "date": "2016-10-01",
+            "reason": "辭職。",
+            "replacement": "邱泰源"
+        },
         "term_start": "2016-02-01",
         "title": "立法委員"
     }],
@@ -71692,6 +71994,11 @@
             "chair": false,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -72017,7 +72324,7 @@
         "constituency": "僑選",
         "education": ["台大畢業", "加州柏克萊大學化學博士"],
         "elected_party": "親民黨",
-        "experience": ["全美TWIN全美女青年總會(YWCA)傑出女性專業人員獎", "美國應用材料公司研發總監", "美國CDE工程公司副總經理", "美國泛林(LAN)亞洲科技總監及科技策略副總裁"],
+        "experience": ["全美TWIN<全美女青年總會(YWCA)傑出女性專業人員獎", "美國應用材料公司研發總監", "美國CDE工程公司副總經理", "美國泛林(LAN)亞洲科技總監及科技策略副總裁"],
         "gender": "女",
         "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/ly1000_6_00118_9f.jpg",
         "in_office": true,
@@ -72830,6 +73137,16 @@
             "chair": false,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "平地原住民",
         "contacts": [{
@@ -73319,6 +73636,11 @@
             "chair": false,
             "name": "財政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "財政委員會",
+            "session": 2
         }],
         "constituency": "臺北市第7選舉區",
         "contacts": [{
@@ -73805,7 +74127,7 @@
             "session": 7
         }, {
             "ad": 8,
-            "chair": false,
+            "chair": true,
             "name": "紀律委員會",
             "session": 8
         }, {
@@ -73838,9 +74160,29 @@
         "caucus": "民主進步黨",
         "committees": [{
             "ad": 9,
+            "chair": true,
+            "name": "經費稽核委員會",
+            "session": 1
+        }, {
+            "ad": 9,
             "chair": false,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "經費稽核委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "經濟委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 2
         }],
         "constituency": "臺南市第2選舉區",
         "contacts": [{
@@ -73855,8 +74197,9 @@
             "phone": "06-723-0100"
         }, {
             "address": "臺南市麻豆區南勢里62-2號",
+            "fax": "06-571-0025",
             "name": "麻豆服務處",
-            "phone": "06-571-7753;06-571-0225"
+            "phone": "06-571-7753"
         }, {
             "address": "臺南市善化區中山路564號",
             "fax": "06-581-9168",
@@ -74569,6 +74912,16 @@
             "chair": false,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "高雄市第5選舉區",
         "contacts": [{
@@ -74577,10 +74930,10 @@
             "name": "國會研究室",
             "phone": "02-2358-8146"
         }, {
-            "address": "高雄市三民區博愛一路183號",
-            "fax": "07-313-5797",
-            "name": "三民服務處",
-            "phone": "07-313-7816"
+            "address": "高雄市鼓山區大順一路929號",
+            "fax": "07-550-0266",
+            "name": "大順服務處",
+            "phone": "07-559-7689"
         }, {
             "address": "高雄市鼓山區九如四路1097號",
             "fax": "07-521-5237",
@@ -74952,6 +75305,11 @@
             "chair": false,
             "name": "司法及法制委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "司法及法制委員會",
+            "session": 2
         }],
         "constituency": "臺中市第1選舉區",
         "contacts": [{
@@ -75410,6 +75768,11 @@
             "chair": false,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "交通委員會",
+            "session": 2
         }],
         "constituency": "桃園市第1選舉區",
         "contacts": [{
@@ -75419,19 +75782,19 @@
             "phone": "02-2358-6666"
         }, {
             "address": "桃園市桃園區自強路224號",
-            "fax": "03-3352-611",
+            "fax": "03-335-2611",
             "name": "桃園區服務處",
-            "phone": "03-3357-255"
+            "phone": "03-335-7255"
         }, {
             "address": "桃園市蘆竹區南竹路四段37號",
-            "fax": "03-3232-370",
+            "fax": "03-323-2370",
             "name": "蘆竹區服務處",
-            "phone": "03-3231-830"
+            "phone": "03-323-1830"
         }, {
             "address": "桃園市龜山區萬壽路二段1050號",
-            "fax": "03-3909-015",
+            "fax": "03-350-9015",
             "name": "龜山服務處",
-            "phone": "03-3509-005"
+            "phone": "03-350-9005"
         }],
         "education": ["臺北市立福星國民小學", "私立延平中學直升部", "國立臺灣大學土木工程學系畢業"],
         "elected_party": "民主進步黨",
@@ -81276,6 +81639,11 @@
             "chair": false,
             "name": "外交及國防委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "外交及國防委員會",
+            "session": 2
         }],
         "constituency": "臺南市第3選舉區",
         "contacts": [{
@@ -81290,8 +81658,9 @@
             "phone": "06-280-3906"
         }, {
             "address": "709臺南市安南區安中路二段8號",
+            "fax": "06-256-0701",
             "name": "安南區服務處",
-            "phone": "06-256-8012;06-256-0701"
+            "phone": "06-256-8012"
         }],
         "education": ["長榮大學經營管理學研究所碩士", "文化大學", "家齊女中", "中山國中", "協進國小"],
         "elected_party": "民主進步黨",
@@ -82418,6 +82787,11 @@
             "chair": false,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "交通委員會",
+            "session": 2
         }],
         "constituency": "山地原住民",
         "contacts": [{
@@ -82578,6 +82952,16 @@
             "chair": true,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "屏東縣第1選舉區",
         "contacts": [{
@@ -83131,6 +83515,11 @@
             "chair": false,
             "name": "教育及文化委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "教育及文化委員會",
+            "session": 2
         }],
         "constituency": "臺北市第6選舉區",
         "contacts": [{
@@ -83287,6 +83676,11 @@
             "chair": false,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "雲林縣第2選舉區",
         "contacts": [{
@@ -83437,6 +83831,11 @@
             "chair": false,
             "name": "外交及國防委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "外交及國防委員會",
+            "session": 2
         }],
         "constituency": "南投縣第1選舉區",
         "contacts": [{
@@ -83798,6 +84197,26 @@
             "chair": true,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -83910,6 +84329,11 @@
             "chair": false,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "彰化縣第1選舉區",
         "contacts": [{
@@ -83918,7 +84342,7 @@
             "name": "國會研究室",
             "phone": "02-2358-6181"
         }, {
-            "address": "彰化縣鹿港鎮永安里鹿東路55號",
+            "address": "彰化縣鹿港鎮頂厝里樂群路43號",
             "fax": "04-777-9150",
             "name": "鹿港服務處",
             "phone": "04-775-4168"
@@ -84085,8 +84509,28 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "司法及法制委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "司法及法制委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -84224,6 +84668,26 @@
             "chair": true,
             "name": "外交及國防委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "外交及國防委員會",
+            "session": 2
         }],
         "constituency": "臺中市第8選舉區",
         "contacts": [{
@@ -84469,6 +84933,21 @@
             "chair": false,
             "name": "教育及文化委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經費稽核委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "教育及文化委員會",
+            "session": 2
         }],
         "constituency": "臺中市第7選舉區",
         "contacts": [{
@@ -84782,6 +85261,16 @@
             "chair": false,
             "name": "外交及國防委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "外交及國防委員會",
+            "session": 2
         }],
         "constituency": "桃園市第5選舉區",
         "contacts": [{
@@ -84933,6 +85422,11 @@
             "chair": false,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "內政委員會",
+            "session": 2
         }],
         "constituency": "嘉義市選舉區",
         "contacts": [{
@@ -84941,7 +85435,7 @@
             "name": "國會研究室",
             "phone": "02-2358-6541"
         }, {
-            "address": "600嘉義市西區博愛路二段166號",
+            "address": "600嘉義市西區興達路280號",
             "fax": "05-277-9775",
             "name": "嘉義服務處",
             "phone": "05-271-9595"
@@ -85475,8 +85969,23 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "經費稽核委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經費稽核委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "高雄市第2選舉區",
         "contacts": [{
@@ -85485,37 +85994,36 @@
             "name": "國會研究室",
             "phone": "02-2358-6561"
         }, {
-            "address": "高雄市岡山區華園路99號",
+            "address": "高雄市岡山區中山南路385號",
             "fax": "07-623-0671",
             "name": "岡山服務處",
             "phone": "07-623-0655"
         }, {
-            "address": "高雄市茄萣區信義路三段138號",
-            "fax": "07-690-2598",
-            "name": "茄萣服務處",
-            "phone": "07-690-1234"
+            "address": "高雄市路竹區國昌路193號",
+            "fax": "07-696-8052",
+            "name": "路竹服務處",
+            "phone": "07-696-8050"
+        }, {
+            "address": "高雄市梓官區梓官路361號",
+            "fax": "07-610-7383",
+            "name": "梓官服務處",
+            "phone": "07-610-7303"
+        }, {
+            "address": "高雄市橋頭區新興路13號",
+            "name": "橋頭服務處",
+            "phone": "07-612-6127"
         }, {
             "address": "高雄市彌陀區鹽埕大路75號",
             "name": "彌陀聯絡處",
             "phone": "07-623-0655"
         }, {
-            "address": "高雄市路竹區國昌路73號",
-            "fax": "07-607-6869",
-            "name": "路竹區邱志偉立委與陳明澤議員聯合服務處",
-            "phone": "07-607-1999"
-        }, {
-            "address": "高雄市路竹區國昌路82號",
-            "fax": "07-697-8588",
-            "name": "路竹區邱志偉立委與張文瑞議員聯合服務處",
-            "phone": "07-696-0525"
-        }, {
-            "fax": "07-610-3338",
-            "name": "梓官服務處",
-            "phone": "07-610-3338"
+            "address": "高雄市茄萣區東港街105號",
+            "name": "茄萣服務處",
+            "phone": "07-623-0655"
         }],
         "education": ["淡江大學俄羅斯研究所法學碩士", "國立臺灣大學國家發展研究所法學碩士", "國立中山大學大陸研究所社會科學博士"],
         "elected_party": "民主進步黨",
-        "experience": ["高雄市政府民政局長", "高雄縣政府民政處長", "修憲國民大會代表", "立陶宛維爾紐斯大學講座教授", "愛沙尼亞塔圖大學講座教授", "南華大學旅遊系助理教授", "英國劍橋大學國際關係研究所", "比利時魯汶大學歐洲研究所", "中正大學國際經濟所博士班"],
+        "experience": ["第8屆立法委員", "高雄市政府民政局長", "高雄縣政府民政處長", "修憲國民大會代表", "立陶宛維爾紐斯大學講座教授", "愛沙尼亞塔圖大學講座教授", "南華大學旅遊系助理教授", "英國劍橋大學國際關係研究所", "比利時魯汶大學歐洲研究所", "中正大學國際經濟所博士班"],
         "gender": "男",
         "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90036.jpg",
         "in_office": true,
@@ -85642,6 +86150,11 @@
             "chair": false,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "內政委員會",
+            "session": 2
         }],
         "constituency": "臺北市第2選舉區",
         "contacts": [{
@@ -85649,6 +86162,15 @@
             "fax": "02-2358-6040",
             "name": "國會研究室",
             "phone": "02-2358-6758"
+        }, {
+            "address": "臺北市士林區承德路四段235號",
+            "fax": "02-281-1561",
+            "name": "士林服務處",
+            "phone": "02-2881-1559"
+        }, {
+            "address": "臺北市大同區承德路一段52號",
+            "fax": "02-2559-7737",
+            "name": "大同服務處"
         }],
         "education": ["輔仁大學大眾傳播系學士", "政治大學政治研究所碩士"],
         "elected_party": "民主進步黨",
@@ -85911,6 +86433,11 @@
             "chair": false,
             "name": "教育及文化委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "教育及文化委員會",
+            "session": 2
         }],
         "constituency": "高雄市第8選舉區",
         "contacts": [{
@@ -85924,9 +86451,9 @@
             "name": "鳳山服務處",
             "phone": "07-768-2666;07-768-1899"
         }],
-        "education": ["國立高師大教育學系碩士", "台大機械工程系", "高雄中學", "五甲國中", "五甲國小"],
+        "education": ["國立高雄師範大學科學教育研究所博士班", "國立高雄師範大學教育碩士(1996)", "國立臺灣大學機械系學士(1988)", "高雄中學(1984)", "五甲國中(1981)", "五甲國小(1978)"],
         "elected_party": "民主進步黨",
-        "experience": ["第8屆立法委員", "第1任鳳山區區長", "鳳山市市長", "高雄縣議員", "鳳山市市民代表", "正修科技大學助理教授", "和春技術學院講師", "高旗工家主任", "鳳山市民大學主任", "國家中山科學研究院工程師", "國立高師大教育研究所博士班"],
+        "experience": ["第8屆立法委員(2012-2016)", "高雄市鳳山區區長(2010-2011)", "高雄縣鳳山市市長(2006-2010)", "高雄縣議員(2002-2006)", "鳳山市市民代表(1998-2002)"],
         "gender": "男",
         "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90057.jpg",
         "in_office": true,
@@ -86049,6 +86576,21 @@
             "chair": true,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "交通委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 2
         }],
         "constituency": "連江縣選舉區",
         "contacts": [{
@@ -86155,7 +86697,7 @@
             "session": 8
         }, {
             "ad": 8,
-            "chair": false,
+            "chair": true,
             "name": "紀律委員會",
             "session": 8
         }, {
@@ -86254,6 +86796,11 @@
             "chair": false,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "交通委員會",
+            "session": 2
         }],
         "constituency": "宜蘭縣選舉區",
         "contacts": [{
@@ -86609,7 +87156,7 @@
             "session": 7
         }, {
             "ad": 8,
-            "chair": false,
+            "chair": true,
             "name": "紀律委員會",
             "session": 8
         }, {
@@ -86771,6 +87318,11 @@
             "chair": false,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "澎湖縣選舉區",
         "contacts": [{
@@ -87026,6 +87578,16 @@
             "chair": false,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "內政委員會",
+            "session": 2
         }],
         "constituency": "高雄市第7選舉區",
         "contacts": [{
@@ -87107,7 +87669,7 @@
             "session": 7
         }, {
             "ad": 8,
-            "chair": false,
+            "chair": true,
             "name": "紀律委員會",
             "session": 7
         }, {
@@ -87138,6 +87700,11 @@
             "chair": false,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "交通委員會",
+            "session": 2
         }],
         "constituency": "臺東縣選舉區",
         "contacts": [{
@@ -87150,6 +87717,26 @@
             "fax": "089-310-879",
             "name": "臺東服務處",
             "phone": "089-310-979"
+        }, {
+            "address": "臺東縣成功鎮民生路39號",
+            "fax": "089-853-185",
+            "name": "東海岸服務處",
+            "phone": "089-853-221"
+        }, {
+            "address": "臺東縣長濱鄉長濱村4鄰12-14號",
+            "fax": "089-832-772",
+            "name": "東海岸(長濱)服務處",
+            "phone": " 089-831-188"
+        }, {
+            "address": "臺東縣大武鄉尚武村4鄰32號",
+            "fax": "089-791-305",
+            "name": "南迴服務處",
+            "phone": "089-791-305"
+        }, {
+            "address": "臺東縣池上鄉新生路231號",
+            "fax": "089-863-525",
+            "name": "縱谷服務處",
+            "phone": "089-862-345"
         }],
         "education": ["臺東仁愛國小", "臺東新生國中", "臺東高中", "國立政治大學法律學系"],
         "elected_party": "民主進步黨",
@@ -87243,7 +87830,7 @@
         "links": {
             "ly": "http://www.ly.gov.tw/03_leg/0301_main/legIntro.action?lgno=00098&stage=8"
         },
-        "name": "鄭天財Sra‧Kacaw",
+        "name": "鄭天財 Sra‧Kacaw",
         "party": "中國國民黨",
         "term_start": "2012-02-01",
         "title": "立法委員"
@@ -87252,9 +87839,24 @@
         "caucus": "中國國民黨",
         "committees": [{
             "ad": 9,
+            "chair": true,
+            "name": "經費稽核委員會",
+            "session": 1
+        }, {
+            "ad": 9,
             "chair": false,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "經費稽核委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "交通委員會",
+            "session": 2
         }],
         "constituency": "平地原住民",
         "contacts": [{
@@ -87282,7 +87884,7 @@
         "term_start": "2016-02-01",
         "title": "立法委員"
     }],
-    "former_names": [],
+    "former_names": ["鄭天財 Sra Kacaw"],
     "name": "鄭天財Sra‧Kacaw",
     "uid": 1763
 }, {
@@ -87417,19 +88019,8 @@
     }, {
         "ad": 9,
         "caucus": "民主進步黨",
-        "committees": [{
-            "ad": 9,
-            "chair": false,
-            "name": "教育及文化委員會",
-            "session": 1
-        }],
+        "committees": [],
         "constituency": "全國不分區",
-        "contacts": [{
-            "address": "10051臺北市中正區青島東路1號3301室",
-            "fax": "02-2358-8330",
-            "name": "國會研究室",
-            "phone": "02-2358-8329"
-        }],
         "education": ["台大哲學系學士", "法國巴黎第十大學政治、經濟、社會哲學碩士"],
         "elected_party": "民主進步黨",
         "experience": ["第8屆立法委員", "行政院青年輔導委員會主任委員", "青平台基金會董事長(兼執行長)", "財團法人台灣智庫執行長", "國藝基金會董事", "東吳大學政治系兼任講師"],
@@ -87441,6 +88032,11 @@
         },
         "name": "鄭麗君",
         "party": "民主進步黨",
+        "term_end": {
+            "date": "2016-05-20",
+            "reason": "辭職。",
+            "replacement": "李麗芬"
+        },
         "term_start": "2016-02-01",
         "title": "立法委員"
     }],
@@ -88121,6 +88717,11 @@
             "chair": false,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "交通委員會",
+            "session": 2
         }],
         "constituency": "臺中市第2選舉區",
         "contacts": [{
@@ -88219,6 +88820,21 @@
             "chair": false,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "內政委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -88504,6 +89120,16 @@
             "chair": true,
             "name": "教育及文化委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "教育及文化委員會",
+            "session": 2
         }],
         "constituency": "臺中市第6選舉區",
         "contacts": [{
@@ -88572,6 +89198,11 @@
             "chair": false,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "交通委員會",
+            "session": 2
         }],
         "constituency": "彰化縣第4選舉區",
         "contacts": [{
@@ -88585,7 +89216,7 @@
             "name": "員林服務處",
             "phone": "04-832-8552"
         }, {
-            "address": "彰化縣社頭鄉員集路二段247號18號",
+            "address": "彰化縣社頭鄉員集路二段247巷18號",
             "fax": "04-872-0411",
             "name": "社頭服務處",
             "phone": "04-872-5011"
@@ -88645,6 +89276,11 @@
             "chair": false,
             "name": "外交及國防委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "外交及國防委員會",
+            "session": 2
         }],
         "constituency": "苗栗縣第2選舉區",
         "contacts": [{
@@ -88723,11 +89359,21 @@
             "chair": false,
             "name": "司法及法制委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "司法及法制委員會",
+            "session": 2
         }],
         "constituency": "南投縣第2選舉區",
         "contacts": [{
             "address": "10051臺北市中正區濟南路1段3-1號0206室",
-            "fax": "02-2358-3572",
+            "fax": "02-2358-8050",
             "name": "國會研究室",
             "phone": "02-2358-8356"
         }, {
@@ -88738,7 +89384,7 @@
         }],
         "education": ["逢甲大學經營管理碩士畢"],
         "elected_party": "中國國民黨",
-        "experience": ["南投縣議員南投縣商業會理事長", "南開科技大學校友會會長", "南投市長", "立法委員"],
+        "experience": ["第8屆立法委員", "南投市第8、9屆市長", "南投縣第15屆議員", "中國國民黨18屆第3、4任及19屆第1、2、3、4任中常委", "南投縣商業總會第21屆理事長", "台灣省商業會94年十大傑出理事長", "95年全國社會優秀青年", "南投縣南開科技大學校友會理事長", "南投縣跆拳道主任委員"],
         "gender": "女",
         "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90056.jpg",
         "in_office": true,
@@ -88789,17 +89435,32 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "經費稽核委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經費稽核委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "內政委員會",
+            "session": 2
         }],
         "constituency": "屏東縣第3選舉區",
         "contacts": [{
             "address": "10051臺北市中正區濟南路1段3-1號0702室",
-            "fax": "02-2358-6366",
+            "fax": "02-2358-6369",
             "name": "國會研究室",
             "phone": "02-2358-6368"
         }, {
-            "address": "900屏東縣東港鎮光復路一段379號",
+            "address": "928屏東縣東港鎮光復路一段379號",
             "fax": "08-833-9316",
             "name": "東港服務處",
             "phone": "08-833-7893"
@@ -88875,8 +89536,23 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -88911,6 +89587,26 @@
             "chair": false,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "紀律委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -88943,8 +89639,23 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -88979,14 +89690,13 @@
             "chair": false,
             "name": "司法及法制委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 1
         }],
         "constituency": "全國不分區",
-        "contacts": [{
-            "address": "10051臺北市中正區青島東路1號3203室",
-            "fax": "02-2358-6870",
-            "name": "國會研究室",
-            "phone": "02-2358-6866"
-        }],
         "education": ["國立臺灣大學法學士", "美國紐約大學(NYU)法學碩士"],
         "elected_party": "民主進步黨",
         "experience": ["萬國法律事務所資深合夥律師(1983年-2016年)", "臺北律師公會理事長(2003年-2005年)", "中華民國律師公會全國聯合會理事長(2008年-2009年)", "臺灣法學會理事長(2009年-2010年)", "民間司法改革基金會董事長(2010年)", "臺灣人權促進會會長(2013年)"],
@@ -88998,6 +89708,11 @@
         },
         "name": "顧立雄",
         "party": "民主進步黨",
+        "term_end": {
+            "date": "2016-08-31",
+            "reason": "辭職。",
+            "replacement": "郭正亮"
+        },
         "term_start": "2016-02-01",
         "title": "立法委員"
     }],
@@ -89011,8 +89726,23 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -89023,7 +89753,7 @@
         }],
         "education": ["臺灣大學生物產業傳播暨發展學系博士"],
         "elected_party": "民主進步黨",
-        "experience": ["九二一震災基金會執行秘書", "台灣農村陣線發言人暨秘書長", "世新大學社會發展研究所助理教授"],
+        "experience": ["九二一震災基金會執行秘書", "台灣農村陣線發言人暨秘書長", "世新大學社會發展研究所副教授"],
         "gender": "女",
         "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90091.jpg",
         "in_office": true,
@@ -89041,40 +89771,15 @@
 }, {
     "each_term": [{
         "ad": 9,
-        "caucus": "民主進步黨",
-        "committees": [{
-            "ad": 9,
-            "chair": false,
-            "name": "內政委員會",
-            "session": 1
-        }],
         "constituency": "全國不分區",
-        "contacts": [{
-            "address": "10051臺北市中正區濟南路1段3-1號0201室",
-            "fax": "02-2358-6035",
-            "name": "國會研究室",
-            "phone": "02-2358-6031"
-        }, {
-            "address": "89147花蓮縣玉里鎮樂合里12鄰39號",
-            "fax": "03-888-6446",
-            "name": "樂合服務處",
-            "phone": "03-888-6527"
-        }],
-        "education": ["臺中女中", "東海大學外國語文學系", "東海大學社會學系研究所碩士"],
         "elected_party": "民主進步黨",
-        "experience": ["桃園市政府原住民族行政局長", "原住民族電視台新聞部副理兼採訪中心組長、主播", "biz互動英語執行主編", "民視新聞部記者", "公共電視執行製作"],
         "gender": "女",
-        "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90025.jpg",
         "in_office": true,
-        "links": {
-            "ly": "http://www.ly.gov.tw/03_leg/0301_main/legIntro.action?lgno=00025&stage=9"
-        },
-        "name": "谷辣斯‧尤達卡Kolas‧Yotaka",
+        "name": "谷辣斯‧尤達卡 Kolas‧Yotaka",
         "party": "民主進步黨",
-        "term_start": "2016-02-01",
         "title": "立法委員"
     }],
-    "former_names": [],
+    "former_names": ["谷辣斯‧尤達卡 Kolas Yotaka"],
     "name": "谷辣斯‧尤達卡Kolas‧Yotaka",
     "uid": 1819
 }, {
@@ -89084,8 +89789,23 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "財政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "財政委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -89118,15 +89838,34 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
-            "address": "10051臺北市中正區青島東路1號3111室",
+            "address": "10051臺北市中正區青島東路1號3301室",
             "fax": "02-2358-8110",
             "name": "國會研究室",
             "phone": "02-2358-8106"
+        }, {
+            "address": "360苗栗縣苗栗市中正路159號",
+            "name": "苗栗服務處",
+            "phone": "037-260-318"
         }],
         "education": ["屏東縣內埔國民小學", "屏東縣內埔國民中學", "私立美和高級中學"],
         "elected_party": "民主進步黨",
@@ -89152,8 +89891,23 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -89188,6 +89942,11 @@
             "chair": false,
             "name": "司法及法制委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "司法及法制委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -89195,10 +89954,15 @@
             "fax": "02-2358-8185",
             "name": "國會研究室",
             "phone": "02-2358-8181"
+        }, {
+            "address": "屏東市忠孝路149-3號",
+            "fax": "08-734-9877",
+            "name": "屏東服務處",
+            "phone": "08-733-8312"
         }],
         "education": ["國立臺灣大學法律學系畢業"],
         "elected_party": "民主進步黨",
-        "experience": ["執業律師", "現任屏東律師公會理事長", "曾任台灣高雄、屏東地方法院法官"],
+        "experience": ["執業律師", "屏東律師公會理事長", "曾任台灣高雄、屏東地方法院法官"],
         "gender": "女",
         "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90026.jpg",
         "in_office": true,
@@ -89222,6 +89986,11 @@
             "chair": false,
             "name": "教育及文化委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "教育及文化委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -89254,19 +90023,39 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "經費稽核委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "經費稽核委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
             "address": "10051臺北市中正區青島東路1號3306室",
             "fax": "02-2358-6380",
             "name": "國會研究室",
-            "phone": "02-2358-6240"
+            "phone": "02-2358-6246"
+        }, {
+            "address": "80247高雄市苓雅區華新街10號",
+            "fax": "07-269-5330",
+            "name": "高雄服務處",
+            "phone": "07-269-6010"
         }],
-        "education": ["陽明大學醫學士", "微免所碩士", "美國哈佛大學公共衛生學院科學博士"],
+        "education": ["國立陽明大學醫學士(第一屆)", "陽明大學微生物暨免疫學研究所第一屆碩士", "美國哈佛大學公共衛生學院科學博士", "美國國家衛生院癌症醫學中心分子腫瘤實險室博士後研究員", "美國國家衛生院癌症醫學中心HIV抗藥研究計畫訪問科學家"],
         "elected_party": "中國國民黨",
-        "experience": ["美國國家衛生院博士後研究", "陽明大學公衛所所長", "國際長", "研發長", "高醫副校長", "醫研所特聘教授"],
+        "experience": ["高雄醫學大學學術副校長、傳染病與癌症研究中心主任、醫學研究所特聘教授", "國立中山大學生物醫學研究所合聘教授", "國立高雄應用科技大學合聘教授", "國立陽明大學兼任教授", "臺北醫學大學兼任教授", "「衛生福利部愛滋病防治及感染者權益保障會」政策工作小組召集人", "法務部毒品審議委員會委員", "社團法人國家生技醫療產業策進會副執行長", "臺灣預防醫學會常務監事", "臺灣減害協會監事", "考選部高普考生物醫學類典試委員兼召集人", "國立陽明大學公衛所所長", "國立陽明大學國際長", "國立陽明大學研發長", "臺灣預防醫學學會理事長", "臺灣減害協會創會會長", "希望工作坊創辦人", "臺灣愛滋燭光紀念活動發起人", "臺灣關愛之家協會理事", "臺灣愛滋紀念被單國際展策展人", "消基會衛生保健組召集人", "微生物學會理事", "教育部醫學教育委員會醫事教育小組召集人", "教育部醫學教育委員會公共衛生小組召集人", "考試院醫師國家考試微生物學門召集人", "臺北市政府顧問"],
         "gender": "男",
         "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90060.jpg",
         "in_office": true,
@@ -89290,6 +90079,11 @@
             "chair": false,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "內政委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -89324,6 +90118,11 @@
             "chair": false,
             "name": "司法及法制委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "司法及法制委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -89358,6 +90157,21 @@
             "chair": false,
             "name": "財政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "財政委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -89368,7 +90182,7 @@
         }],
         "education": ["臺北大學企業管理研究所博士"],
         "elected_party": "中國國民黨",
-        "experience": ["財政部政務次長兼臺灣金控董事長", "常務次長兼國安基金執行秘書", "金融監督管理委員會檢查局長"],
+        "experience": ["金融監督管理委員會主任委員", "財政部政務次長兼臺灣金控董事長", "財政部常務次長兼國安基金執行秘書", "行政院金融監督管理委員會檢查局局長", "合作金庫銀行總經理", "其他事項：", "一、金管會主委任內，政績卓著，榮獲總統府及行政院頒發「景星勳章」及「一等功績獎章」", "二、2014年獲頒「李國鼎管理獎章」", "三、「公民監督國會聯盟」評鑑為：「9-1會期優秀立委」"],
         "gender": "男",
         "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90072.jpg",
         "in_office": true,
@@ -89392,6 +90206,11 @@
             "chair": false,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "內政委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -89431,6 +90250,11 @@
             "chair": false,
             "name": "司法及法制委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "司法及法制委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -89471,8 +90295,23 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "經費稽核委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "教育及文化委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經費稽核委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "教育及文化委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -89495,7 +90334,7 @@
         "term_start": "2016-02-01",
         "title": "立法委員"
     }],
-    "former_names": [],
+    "former_names": ["高潞‧以用‧巴魕剌 Kawlo Iyun Pacidal"],
     "name": "高潞‧以用‧巴魕剌Kawlo‧Iyun‧Pacidal",
     "uid": 1831
 }, {
@@ -89505,8 +90344,23 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "經濟委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "經濟委員會",
+            "session": 2
         }],
         "constituency": "全國不分區",
         "contacts": [{
@@ -89541,6 +90395,11 @@
             "chair": false,
             "name": "教育及文化委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "教育及文化委員會",
+            "session": 2
         }],
         "constituency": "臺北市第1選舉區",
         "contacts": [{
@@ -89580,6 +90439,11 @@
             "chair": false,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "臺北市第3選舉區",
         "contacts": [{
@@ -89588,9 +90452,10 @@
             "name": "國會研究室",
             "phone": "02-2358-8268"
         }, {
-            "address": "臺北市肿山區新生北路二段127巷8號",
-            "fax": "02-2500-6519",
-            "name": "中山服務處"
+            "address": "臺北市中山區新生北路二段127巷8號",
+            "fax": "02-2511-2719",
+            "name": "中山服務處",
+            "phone": "02-2511-2711"
         }],
         "education": ["美國賓夕法尼亞大學法學院法律博士", "國立政治大學法律系、外交系雙學士"],
         "elected_party": "中國國民黨",
@@ -89616,8 +90481,23 @@
         "committees": [{
             "ad": 9,
             "chair": false,
+            "name": "程序委員會",
+            "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "程序委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "臺北市第4選舉區",
         "contacts": [{
@@ -89662,6 +90542,11 @@
             "chair": false,
             "name": "外交及國防委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "外交及國防委員會",
+            "session": 2
         }],
         "constituency": "臺北市第5選舉區",
         "contacts": [{
@@ -89669,6 +90554,11 @@
             "fax": "02-2358-6125",
             "name": "國會研究室",
             "phone": "02-2358-6121"
+        }, {
+            "address": "100臺北市中正區莒光路88號",
+            "fax": "02-2302-8950",
+            "name": "中正萬華服務處",
+            "phone": "02-2302-8910"
         }],
         "education": ["國立台北大學企業管理學系學士"],
         "elected_party": "時代力量",
@@ -89696,6 +90586,11 @@
             "chair": false,
             "name": "外交及國防委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "外交及國防委員會",
+            "session": 2
         }],
         "constituency": "新北市第1選舉區",
         "contacts": [{
@@ -89703,6 +90598,26 @@
             "fax": "02-2358-6530",
             "name": "國會研究室",
             "phone": "02-2358-6526"
+        }, {
+            "address": "新北市淡水區淡金路24號",
+            "fax": "02-8626-0128",
+            "name": "淡水區服務處",
+            "phone": "02-8626-9666"
+        }, {
+            "address": "新北市林口區文化三路二段326號",
+            "fax": "02-8601-9299",
+            "name": "林口區服務處",
+            "phone": "02-8601-9199"
+        }, {
+            "address": "新北市泰山區新明里中央路5巷32-3號",
+            "fax": "02-2908-4355",
+            "name": "泰山區：立法委員呂孫綾／副議長陳文治／里長陳文貴聯合務處",
+            "phone": "02-2906-2727"
+        }, {
+            "address": "新北市泰山區文程路18巷12號",
+            "fax": "02-2909-5641",
+            "name": "泰山區：立法委員呂孫綾／議員賴秋煝聯合服務處",
+            "phone": "02-2296-6994"
         }],
         "education": ["淡水國小", "聖心女中", "文化大學政治學系", "文化大學政治研究所碩士"],
         "elected_party": "民主進步黨",
@@ -89730,6 +90645,11 @@
             "chair": false,
             "name": "教育及文化委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "教育及文化委員會",
+            "session": 2
         }],
         "constituency": "新北市第5選舉區",
         "contacts": [{
@@ -89747,10 +90667,15 @@
             "fax": "02-2678-2268",
             "name": "鶯歌服務處",
             "phone": "02-2678-3368"
+        }, {
+            "address": "242新北市新莊區民安西路319號1樓",
+            "fax": "02-2204-9636",
+            "name": "新莊西盛服務處",
+            "phone": "02-2204-1638"
         }],
         "education": ["美國賓州大學法律博士（SJD）候選人", "美國賓州大學法律碩士(LLM)", "美國波士頓大學法律碩士(LLM)", "台大法律系司法組畢業", "北一女中"],
         "elected_party": "民主進步黨",
-        "experience": ["超越基金會執行長", "2004年總統大選律師後援會總聯絡人、驗票律師團律師", "臺北縣偏鄉法律咨詢服務義務律師", "萬國法律事務所律師", "律師高考及格"],
+        "experience": ["超越基金會執行長", "2004年總統大選律師後援會總聯絡人、驗票律師團律師", "臺北縣偏鄉法律諮詢服務義務律師", "萬國法律事務所律師", "律師高考及格"],
         "gender": "女",
         "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90109.jpg",
         "in_office": true,
@@ -89774,6 +90699,11 @@
             "chair": false,
             "name": "司法及法制委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "司法及法制委員會",
+            "session": 2
         }],
         "constituency": "新北市第6選舉區",
         "contacts": [{
@@ -89781,6 +90711,16 @@
             "fax": "02-2358-8070",
             "name": "國會研究室",
             "phone": "02-2358-8066"
+        }, {
+            "address": "新北市板橋區中山路一段293-1號B1",
+            "fax": "02-8951-7028",
+            "name": "板橋中山路服務處",
+            "phone": "02-8951-7018"
+        }, {
+            "address": "新北市板橋區文化路二段124巷6號",
+            "fax": "02-2250-7028",
+            "name": "板橋文化路服務處",
+            "phone": "02-2250-7018"
         }],
         "education": ["東吳大學政治系學士", "國立臺北教育大學教育碩士"],
         "elected_party": "民主進步黨",
@@ -89808,6 +90748,16 @@
             "chair": false,
             "name": "外交及國防委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "紀律委員會",
+            "session": 2
+        }, {
+            "ad": 9,
+            "chair": true,
+            "name": "外交及國防委員會",
+            "session": 2
         }],
         "constituency": "新北市第7選舉區",
         "contacts": [{
@@ -89816,9 +90766,10 @@
             "name": "國會研究室",
             "phone": "02-2358-6871"
         }, {
-            "address": "220新北市板橋市民安街32號",
+            "address": "220新北市板橋區民安街32號",
             "fax": "02-2962-9390",
-            "name": "板橋服務處"
+            "name": "板橋服務處",
+            "phone": "02-2962-2366"
         }],
         "education": ["美國加州大學洛杉磯分校(UCLA)政治學博士", "國立政治大學外交學系學士"],
         "elected_party": "民主進步黨",
@@ -89846,6 +90797,11 @@
             "chair": false,
             "name": "財政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "財政委員會",
+            "session": 2
         }],
         "constituency": "新北市第8選舉區",
         "contacts": [{
@@ -89885,6 +90841,11 @@
             "chair": false,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "內政委員會",
+            "session": 2
         }],
         "constituency": "新北市第10選舉區",
         "contacts": [{
@@ -89893,7 +90854,7 @@
             "name": "國會研究室",
             "phone": "02-2358-6316"
         }, {
-            "address": "新店市土城區金城路二段172號",
+            "address": "新北市土城區金城路三段172號",
             "fax": "02-2270-0802",
             "name": "土城服務處",
             "phone": "02-2270-1580"
@@ -89929,6 +90890,11 @@
             "chair": false,
             "name": "財政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "財政委員會",
+            "session": 2
         }],
         "constituency": "新北市第12選舉區",
         "contacts": [{
@@ -89968,6 +90934,11 @@
             "chair": false,
             "name": "財政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "財政委員會",
+            "session": 2
         }],
         "constituency": "桃園市第2選舉區",
         "contacts": [{
@@ -89975,6 +90946,26 @@
             "fax": "02-2358-6140",
             "name": "國會研究室",
             "phone": "02-2358-6136"
+        }, {
+            "address": "326桃園市楊梅區梅獅路二段65號",
+            "fax": "03-482-2266",
+            "name": "楊梅區服務處",
+            "phone": "03-482-1333"
+        }, {
+            "address": "328桃園市觀音區中正路156號",
+            "fax": "03-473-7855",
+            "name": "觀音區服務處",
+            "phone": "03-473-2535"
+        }, {
+            "address": "337桃園市大園區中山南路109號",
+            "fax": "03-385-0185",
+            "name": "大園區服務處",
+            "phone": "03-385-0188"
+        }, {
+            "address": "327桃園市新屋區電信街13號",
+            "fax": "03-477-2238",
+            "name": "新屋區服務處",
+            "phone": "03-477-0123"
         }],
         "education": ["萬能科技大學學士畢業", "國立新竹高商"],
         "elected_party": "民主進步黨",
@@ -90002,6 +90993,11 @@
             "chair": false,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "交通委員會",
+            "session": 2
         }],
         "constituency": "桃園市第6選舉區",
         "contacts": [{
@@ -90011,13 +91007,13 @@
             "phone": "02-2358-6896"
         }, {
             "address": "334桃園市八德區永福西街38號",
-            "fax": "03-3617-569",
+            "fax": "03-361-7569",
             "name": "八德服務處",
-            "phone": "03-3661-613"
+            "phone": "03-366-1613"
         }],
         "education": ["銘傳大學公共事務學系研究所碩士"],
         "elected_party": "無黨籍",
-        "experience": ["桃園縣八德市公所秘書", "桃園縣八德市民代表", "桃園縣第15、16、16屆議員", "桃園市第1屆議員"],
+        "experience": ["桃園縣八德市公所秘書", "桃園縣八德市民代表", "桃園縣第15、16、17屆議員", "桃園市第1屆議員"],
         "gender": "男",
         "image": "http://www.ly.gov.tw/upload/01_introduce/0103_leg/LGpicture/90085.jpg",
         "in_office": true,
@@ -90041,6 +91037,11 @@
             "chair": false,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "臺中市第3選舉區",
         "contacts": [{
@@ -90048,6 +91049,16 @@
             "fax": "02-2358-6585",
             "name": "國會研究室",
             "phone": "02-2358-6581"
+        }, {
+            "address": "臺中市大雅區雅環路二段285號",
+            "fax": "04-2560-7170",
+            "name": "大雅服務處",
+            "phone": "04-2560-6118"
+        }, {
+            "address": "臺中市后里區四村路85號",
+            "fax": "04-2557-3199",
+            "name": "后里服務處",
+            "phone": "04-2557-3188"
         }],
         "education": ["后里區內埔國小", "臺中市后里國中", "國立台中商專", "國立高雄第一科技大學行銷與流通管理學系"],
         "elected_party": "時代力量",
@@ -90075,6 +91086,11 @@
             "chair": false,
             "name": "教育及文化委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "教育及文化委員會",
+            "session": 2
         }],
         "constituency": "臺中市第4選舉區",
         "contacts": [{
@@ -90083,11 +91099,12 @@
             "name": "國會研究室",
             "phone": "02-2358-8282"
         }, {
+            "address": "台中市西屯區至善路52號",
             "fax": "04-2708-9803",
             "name": "台中服務處",
             "phone": "04-2708-8883"
         }],
-        "education": ["東海大學EMBA高階管理學院博士", "東海大學政治學研究所碩士班", "輔仁大學大眾傳播系", "台中一中"],
+        "education": ["東海大學EMBA高階管理學院碩士", "東吳大學政治學研究所碩士班", "輔仁大學大眾傳播系", "國立台中一中"],
         "elected_party": "民主進步黨",
         "experience": ["民進黨中央黨部執行委員", "大臺中直轄市第1、2屆市議員", "第14、15、16屆臺中市議員", "民進黨臺中市黨部第11屆主任委員", "臺中市棒球委員會主任委員", "中華民國棒球協會理事"],
         "gender": "男",
@@ -90113,6 +91130,11 @@
             "chair": false,
             "name": "交通委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "交通委員會",
+            "session": 2
         }],
         "constituency": "臺南市第4選舉區",
         "contacts": [{
@@ -90121,7 +91143,7 @@
             "name": "國會研究室",
             "phone": "02-2358-6931"
         }, {
-            "address": "701臺南市東區凱琁路225號",
+            "address": "701臺南市東區凱旋路225號",
             "fax": "06-2091-150",
             "name": "東區服務處",
             "phone": "06-2091-120"
@@ -90157,6 +91179,11 @@
             "chair": false,
             "name": "外交及國防委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "外交及國防委員會",
+            "session": 2
         }],
         "constituency": "臺南市第5選舉區",
         "contacts": [{
@@ -90201,6 +91228,11 @@
             "chair": false,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "內政委員會",
+            "session": 2
         }],
         "constituency": "高雄市第9選舉區",
         "contacts": [{
@@ -90209,12 +91241,12 @@
             "name": "國會研究室",
             "phone": "02-2358-6888"
         }, {
-            "address": "高雄市小港區宏平路577號",
+            "address": "高雄市小港區宏平路339號",
             "fax": "07-806-0737",
             "name": "小港服務處",
             "phone": "07-806-1685"
         }, {
-            "address": "高雄市前鎮區永豐路106號",
+            "address": "高雄市前鎮區永豐路246號",
             "fax": "07-721-3391",
             "name": "前鎮服務處",
             "phone": "07-751-0005"
@@ -90245,6 +91277,11 @@
             "chair": false,
             "name": "社會福利及衛生環境委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "社會福利及衛生環境委員會",
+            "session": 2
         }],
         "constituency": "彰化縣第2選舉區",
         "contacts": [{
@@ -90284,6 +91321,11 @@
             "chair": false,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "內政委員會",
+            "session": 2
         }],
         "constituency": "彰化縣第3選舉區",
         "contacts": [{
@@ -90291,6 +91333,16 @@
             "fax": "02-2358-8320",
             "name": "國會研究室",
             "phone": "02-2358-8316"
+        }, {
+            "address": "500彰化縣溪湖鎮東寮里員鹿路三段493號",
+            "fax": "04-822-1620",
+            "name": "溪湖服務處",
+            "phone": "04-881-6551"
+        }, {
+            "address": "500彰化縣北斗鎮居仁里復興路28號",
+            "fax": "04-887-6424",
+            "name": "北斗服務處",
+            "phone": "04-887-6769"
         }, {
             "address": "500彰化縣二林鎮豐田里二溪路一段207號",
             "name": "二林服務處"
@@ -90321,6 +91373,11 @@
             "chair": false,
             "name": "司法及法制委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "司法及法制委員會",
+            "session": 2
         }],
         "constituency": "嘉義縣第1選舉區",
         "contacts": [{
@@ -90334,12 +91391,19 @@
             "name": "朴子服務處",
             "phone": "05-370-8518"
         }, {
+            "address": "嘉義縣水上鄉水頭村中興路183號",
+            "fax": "05-2686-863",
+            "name": "水上服務處",
+            "phone": "05-2686-860"
+        }, {
             "address": "嘉義縣布袋鎮上海路331-1號",
             "name": "布袋服務處",
-            "phone": "05-347-6822"
+            "phone": "05-3477-222"
         }, {
-            "address": "嘉義縣水上鄉中正路192號",
-            "name": "水上服務處"
+            "address": "嘉義縣義竹鄉竹村117號",
+            "fax": "05-3416-068",
+            "name": "義竹服務處",
+            "phone": "05-3416-058"
         }],
         "education": ["嘉義市崇文國小", "水上鄉忠和國中", "嘉義高中", "臺灣大學財經法律系"],
         "elected_party": "民主進步黨",
@@ -90367,6 +91431,11 @@
             "chair": false,
             "name": "教育及文化委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "教育及文化委員會",
+            "session": 2
         }],
         "constituency": "屏東縣第2選舉區",
         "contacts": [{
@@ -90406,6 +91475,11 @@
             "chair": false,
             "name": "外交及國防委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "外交及國防委員會",
+            "session": 2
         }],
         "constituency": "基隆市選舉區",
         "contacts": [{
@@ -90413,6 +91487,16 @@
             "fax": "02-2358-6690",
             "name": "國會研究室",
             "phone": "02-2358-6686"
+        }, {
+            "address": "基隆市基金一路135巷21弄2-1號",
+            "fax": "02-2431-0071",
+            "name": "安樂服務處",
+            "phone": "02-2431-0070"
+        }, {
+            "address": "基隆市中正區義一路114號2樓",
+            "fax": "02-2426-0183",
+            "name": "基隆服務處",
+            "phone": "02-2426-0182"
         }],
         "education": ["淡江大學國際事務與戰略研究所碩士", "東海大學政治系學士"],
         "elected_party": "民主進步黨",
@@ -90440,6 +91524,11 @@
             "chair": false,
             "name": "內政委員會",
             "session": 1
+        }, {
+            "ad": 9,
+            "chair": false,
+            "name": "內政委員會",
+            "session": 2
         }],
         "constituency": "金門縣選舉區",
         "contacts": [{
@@ -90448,7 +91537,7 @@
             "name": "國會研究室",
             "phone": "02-2358-6099"
         }, {
-            "address": "金門縣金城鎮民生路69號",
+            "address": "金門縣金城鎮民權路154號",
             "fax": "082-375-155",
             "name": "金門服務處",
             "phone": "082-375-230"
