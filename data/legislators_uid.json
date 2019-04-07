@@ -23557,7 +23557,7 @@
   },
   {
     "ads": [
-      7
+      7, 9
     ],
     "gender": "男",
     "name": "余天",
@@ -25842,5 +25842,44 @@
       "何志偉"
     ],
     "uid": 1865
+  }, {
+    "ads": [
+      9
+    ],
+    "gender": "男",
+    "name": "柯呈枋",
+    "former_names": [
+
+    ],
+    "identifiers": [
+      "柯呈枋"
+    ],
+    "uid": 1866
+  }, {
+    "ads": [
+      9
+    ],
+    "gender": "男",
+    "name": "郭國文",
+    "former_names": [
+
+    ],
+    "identifiers": [
+      "郭國文"
+    ],
+    "uid": 1867
+  }, {
+    "ads": [
+      9
+    ],
+    "gender": "女",
+    "name": "陳玉珍",
+    "former_names": [
+
+    ],
+    "identifiers": [
+      "陳玉珍"
+    ],
+    "uid": 1868
   }
 ]
