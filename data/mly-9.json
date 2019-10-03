@@ -2,7 +2,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?660952C984299A8A9413C94AB91C4AE4542984C1928AE052B98A29A26A94932A6A291964C00313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CC2492C9484A53515298C9A46E834993A229487052518392B9A84A544D529C2AA64A238C031813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1809"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90001.jpg",
@@ -105,7 +105,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6E0552A970291B8A9414124AC99C4AD8542970C192640952B18A29A26A94932A6A291C64D40313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CD1492A9074A635152A012A472934963A2290770528C2492B1A84A544D529C2AA64A838C531813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=33058"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90122.jpg",
@@ -125,19 +125,31 @@
         "session": 7,
         "chair": false,
         "name": "司法及法制委員會"
+      },
+      {
+        "ad": 9,
+        "session": 8,
+        "chair": false,
+        "name": "司法及法制委員會"
       }
     ],
     "term_start": "2019-02-01",
     "education": [
-      "中國文化大學新聞、企管系雙學士",
-      "南開大學管理學博士"
+      "南開大學經濟管理學博士（天津）",
+      "政法大學經濟法學博士（北京）",
+      "文化大學新聞系、企業管理系雙學士（台北）"
     ],
     "experience": [
-      "中國國民黨中常委",
-      "中國國民黨團副書記長",
-      "中國政法大學在職經濟法學博士",
-      "立法院第一屆至第六屆立法委員",
-      "立法院交通、司法、法治、預算暨決算、國防、經費稽核等委員會召集委員"
+      "立法院立法委員（第九屆補選）",
+      "中國國民黨中央委員會常務委員（中常委）",
+      "中國國民黨立法院黨團司法及法制委員會委員長（第九屆第七會期）",
+      "中華華夏文化交流協會理事長",
+      "中華關愛社會福利協會理事長",
+      "臺中市大樓社會協進會創會理事長",
+      "立法院立法委員（第一至第六屆）",
+      "立法院司法及法治、交通、國防、預算與決算、經費稽核委員會召集委員",
+      "中國國民黨立法院黨團副書記長",
+      "親民黨立法院黨團幹事長"
     ],
     "elected_party": "KMT",
     "caucus": "KMT",
@@ -145,12 +157,12 @@
       {
         "phone": "02-2358-6299",
         "fax": "02-2358-6300",
-        "address": "10051臺北市中正區青島東路10號3505室",
+        "address": "10053臺北市中正區青島東路10號3505室",
         "name": "國會研究室"
       },
       {
-        "phone": "04-2247-3132",
-        "fax": "04-2247-6652",
+        "phone": "04-2246-3665",
+        "fax": "04-2246-1058",
         "address": "40675臺中市北屯區松安街178號",
         "name": "臺中服務處"
       }
@@ -174,7 +186,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?70E4520A70299C8A9414124A12214AD454298C0A928CE452B18A29A26A94932A6A299C64D80313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0E93920A074A935152A012A484244953A229C88252919392B1A84A544D529C2AA64A938C631813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1848"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90040.jpg",
@@ -283,7 +295,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6CE0528182299C8A94440A4AC19C4AD8542966C192840952C98A29A26A94932A6A299A6CD80313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8D839281284A935152220AA470934963A229667052902492C9A84A544D529C2AA64A538D631813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1883"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90075.jpg",
@@ -406,7 +418,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?700552A970299A8A9493C14AC19C4AD454296EC19270E452C18A29A26A94932A6A299A72D80313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0E1492A9074A5351529CC1A470934953A229E670520E9392C1A84A544D529C2AA64A534E631813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1919"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90111.jpg",
@@ -501,7 +513,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?66E052A970299A8A9493C14AB91C4AD854298AC19288E452B18A29A26A94932A6A291C60DC0313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CC8392A9074A5351529CC1A46E834963A229A87052119392B1A84A544D529C2AA64A830C731813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1831"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90023.jpg",
@@ -579,7 +591,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?62E0529170299C8A9463124AA91C4AD4542966129272E452C98A29A26A94932A6A291A66DC0313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4C839291074A9351521B12A46A834953A2296684524E9392C9A84A544D529C2AA64A43CC731813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1867"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90059.jpg",
@@ -702,7 +714,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6AE052C184291B8A9463124A32A04AD45429880A9268E052C98A29A26A94932A6A299C68DC0313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4D8392C1484A6351521B12A48C144953A2298882520D8392C9A84A544D529C2AA64A930D731813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1906"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90098.jpg",
@@ -813,7 +825,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6EE052B172291B8A9454C14AC19C4AD8542966129272E452C98A29A26A94932A6A291C64E00313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CD8392B1274A635152A2C1A470934963A2296684524E9392C9A84A544D529C2AA64A838C831813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1870"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90062.jpg",
@@ -926,7 +938,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8AE052C172291B8A9453C14AB1214AE0542966129272E452C98A29A26A94932A6A291B66E00313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?518392C1274A6351529AC1A46C244983A2296684524E9392C9A84A544D529C2AA64A63CC831813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1875"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90067.jpg",
@@ -1039,7 +1051,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6CE4528970291C8A9483124A22A04AD4542966129272E452C98A29A26A94932A6A291868E00313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8D939289074A8351521C12A488144953A2296684524E9392C9A84A544D529C2AA64A030D831813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1878"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90070.jpg",
@@ -1107,6 +1119,12 @@
         "session": 6,
         "chair": false,
         "name": "教育及文化委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
+        "chair": false,
+        "name": "教育及文化委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -1156,7 +1174,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6A0552A184291B8A9434C94A2AA04AD4542972C19262E452C18A29A26A94932A6A299A6AE00313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4D1492A1484A635152A1C9A48A144953A2292770524C9392C1A84A544D529C2AA64A534D831813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1889"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90081.jpg",
@@ -1269,7 +1287,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6CE0528972291C8A94240A4A99A04AD45429681292660952C18A29A26A94932A6A291B6CE00313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8D839289274A835152210AA466144953A229868452CC2492C1A84A544D529C2AA64A638D831813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1909"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90101.jpg",
@@ -1399,7 +1417,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6AE452B970299B8A9403C14AB9A04ADC54296E0A9284E452B98A29A26A94932A6A299C6CE00313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4D9392B9074A73515218C1A46E144973A229E68252909392B9A84A544D529C2AA64A938D831813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1907"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90099.jpg",
@@ -1525,7 +1543,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?88E052C970291B8A9454C14AC19C4AD854296AC1928A0952B98A29A26A94932A6A299C6EE00313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?118392C9074A635152A2C1A470934963A229A67052512492B9A84A544D529C2AA64A93CD831813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1915"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90107.jpg",
@@ -1644,7 +1662,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8AE452C170299C8A9424124AA1214AE454298AC19288E452B18A29A26A94932A6A291C72E00313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?519392C1074A9351522112A468244993A229A87052119392B1A84A544D529C2AA64A834E831813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1832"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90024.jpg",
@@ -1752,7 +1770,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?820952C182291B8A9413124A91214AD454296EC9928AE452B18A29A26A94932A6A291A60E40313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?502492C1284A6351529812A464244953A229E67252519392B1A84A544D529C2AA64A430C931813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1836"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90028.jpg",
@@ -1867,7 +1885,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8CE052B182299B8A9473124A2A214AD454296EC9928AE452B18A29A26A94932A6A291C60E40313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?918392B1284A7351529B12A48A244953A229E67252519392B1A84A544D529C2AA64A830C931813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1841"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90033.jpg",
@@ -1998,7 +2016,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?7205528972299B8A9403124A22A04AE0542962129264E052C98A29A26A94932A6A299962E40313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4E149289274A7351521812A488144983A2292684528C8392C9A84A544D529C2AA64A334C931813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1845"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90037.jpg",
@@ -2105,7 +2123,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6E09520A84299A8A9434C94A2AA04AD454296A12928A0552B18A29A26A94932A6A299B62E40313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CD24920A484A535152A1C9A48A144953A229A68452511492B1A84A544D529C2AA64A734C931813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1849"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90041.jpg",
@@ -2244,7 +2262,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?860552A984299C8A9473C94A32214AD4542970C992840552C98A29A26A94932A6A299964E40313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?D01492A9484A9351529BC9A48C244953A229077252901492C9A84A544D529C2AA64A338C931813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1857"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90049.jpg",
@@ -2368,7 +2386,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6AE0529182291B8A94030A4AA1214ADC542962C9926EE052C98A291C7294240A4AC9A24A155329722A9A4AD823C96013B6CAB5",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4D839291284A635152180AA468244973A229267252CD8392C9A84A834E52210AA4725449549A29278A53496319C906C4D659D6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1858"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90050.jpg",
@@ -2453,6 +2471,12 @@
         "ad": 9,
         "session": 7,
         "chair": true,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
+        "chair": true,
         "name": "紀律委員會"
       }
     ],
@@ -2474,7 +2498,7 @@
       {
         "phone": "02-2358-6051",
         "fax": "02-2358-6055",
-        "address": "10051臺北市中正區青島東路10號3507室",
+        "address": "10053臺北市中正區青島東路10號3507室",
         "name": "國會研究室"
       },
       {
@@ -2507,7 +2531,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8CE4529982291B8A9424C14A1A9C4AD454296CC992840952A98A29A26A94932A6A29196CE40313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?91939299284A63515221C1A486934953A229C67252902492A9A84A544D529C2AA64A238D931813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1890"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90082.jpg",
@@ -2622,7 +2646,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6609520A70291C8A9463C94AC1214AD0542972C19282E052A98A29A26A94932A6A291A6CE40313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CC24920A074A8351521BC9A470244943A229277052508392A9A84A544D529C2AA64A438D931813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1894"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90086.jpg",
@@ -2732,7 +2756,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6809528172299B8A9454C14A2A214ADC5429880A926AE452C18A29A26A94932A6A299870E40313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0D249281274A735152A2C1A48A244973A2298882524D9392C1A84A544D529C2AA64A130E931813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1908"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90100.jpg",
@@ -2844,7 +2868,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8605520A70291C8A9424124A91214AD854296EC19270E452C18A29A26A94932A6A299A70E40313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?D014920A074A8351522112A464244963A229E670520E9392C1A84A544D529C2AA64A530E931813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1918"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90110.jpg",
@@ -2950,7 +2974,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?72E0528172299A8A9473C14AB19C4AD8542968C992880552A98A29A26A94932A6A291962CC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4E839281274A5351529BC1A46C934963A229867252111492A9A84A544D529C2AA64A234C339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1814"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90006.jpg",
@@ -3055,7 +3079,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?84E0529172299B8A94540A4AB1A04AD8542984C1928AE052B98A29A26A94932A6A299A62CC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?90839291274A735152A20AA46C144963A229487052518392B9A84A544D529C2AA64A534C339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1813"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90005.jpg",
@@ -3204,7 +3228,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?82E4523270291B8A9473C94A32214AD4542966129260E452A98A29A26A94932A6A299864CC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?50939232074A6351529BC9A48C244953A2296684520C9392A9A84A544D529C2AA64A138C339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1821"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90013.jpg",
@@ -3317,7 +3341,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6205523270299A8A9493C14AB9A04ADC542966129260E452A98A29A26A94932A6A291A64CC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4C149232074A5351529CC1A46E144973A2296684520C9392A9A84A544D529C2AA64A438C339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1822"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90014.jpg",
@@ -3437,7 +3461,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6805522A84291B8A9463C14AC19C4AD854298AC19288E452B18A29A26A94932A6A299B64CC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0D14922A484A6351521BC1A470934963A229A87052119392B1A84A544D529C2AA64A738C339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1828"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90020.jpg",
@@ -3557,7 +3581,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?640952A184291B8A9414124A911C4ADC54296EC9928AE452B18A29A26A94932A6A291A66CC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8C2492A1484A635152A012A464834973A229E67252519392B1A84A544D529C2AA64A43CC339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1839"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90031.jpg",
@@ -3685,7 +3709,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8605520A70291C8A9413C94AB9214AD854296EC9928AE452B18A29A26A94932A6A299B66CC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?D014920A074A83515298C9A46E244963A229E67252519392B1A84A544D529C2AA64A73CC339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1840"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90032.jpg",
@@ -3791,7 +3815,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6EE0521270299A8A9424C14A1A9C4AD4542960C9928A0952A98A29A26A94932A6A299968CC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CD839212074A53515221C1A486934953A229067252512492A9A84A544D529C2AA64A330D339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1854"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90046.jpg",
@@ -3877,7 +3901,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?68E052B172299A8A9473C94A0A214AE454296A1292860952A98A29A26A94932A6A299C68CC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0D8392B1274A5351529BC9A482244993A229A68452D02492A9A84A544D529C2AA64A930D339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1862"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90054.jpg",
@@ -3994,7 +4018,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?7205528972299B8A9433124AC99C4AE454298AA9927215532964B1996289D62BDA",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4E149289274A7351529912A472934993A229A86A524E549A29466C334C26B62BAD",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1877"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90069.jpg",
@@ -4118,7 +4142,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6009529984291B8A9424124AA1214AE45429841292640952C18A29A26A94932A6A299A6CCC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0C249299484A6351522112A468244993A2294884528C2492C1A84A544D529C2AA64A538D339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1881"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90073.jpg",
@@ -4240,7 +4264,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6409529972299A8A9493C14A891C4AD4542966C192840952C98A29A26A94932A6A299B6CCC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8C249299274A5351529CC1A462834953A229667052902492C9A84A544D529C2AA64A738D339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1884"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90076.jpg",
@@ -4400,7 +4424,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6409522A70299B8A94730A4A91A04ADC5429620A928A0552B98A29A26A94932A6A291A6ECC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8C24922A074A7351529B0AA464144973A229268252511492B9A84A544D529C2AA64A43CD339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1891"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90083.jpg",
@@ -4495,15 +4519,9 @@
         "name": "國會研究室"
       },
       {
-        "phone": "07-559-7689",
-        "fax": "07-550-0266",
-        "address": "高雄市鼓山區大順一路929號",
-        "name": "大順服務處"
-      },
-      {
         "phone": "07-533-0227",
         "fax": "07-521-5237",
-        "address": "高雄市鼓山區九如四路1097號",
+        "address": "80451高雄市鼓山區九如四路1097號",
         "name": "內惟服務處"
       }
     ],
@@ -4523,7 +4541,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?86E052C172291B8A9463124AA91C4AD45429620A9268E452C18A29A26A94932A6A299B6ECC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?D08392C1274A6351521B12A46A834953A2292682520D9392C1A84A544D529C2AA64A73CD339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1897"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90089.jpg",
@@ -4637,7 +4655,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?860552A984299C8A9424C14A891C4AE45429880A9268E052C98A29A26A94932A6A299870CC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?D01492A9484A93515221C1A462834993A2298882520D8392C9A84A544D529C2AA64A130E339813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1904"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90096.jpg",
@@ -4758,7 +4776,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?720552A182299A8A9493C94A22214AD054298AA9927215532966819B6289D62BDA",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4E1492A1284A5351529CC9A488244943A229A86A524E549A296660734C26B62BAD",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=33150"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90124.jpg",
@@ -4824,7 +4842,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?66E052B182299A8A94440A4A0A214AD0542966129272E452C98A29A26A94932A6A291C60DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CC8392B1284A535152220AA482244943A2296684524E9392C9A84A544D529C2AA64A830C739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1871"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90063.jpg",
@@ -4943,7 +4961,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8AE052C172291B8A9413124A229C4AD85429620A92600952B98A29A26A94932A6A299B62DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?518392C1274A6351529812A488934963A2292682520C2492B9A84A544D529C2AA64A734C739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1913"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90105.jpg",
@@ -4975,6 +4993,12 @@
         "session": 3,
         "chair": false,
         "name": "交通委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
+        "chair": false,
+        "name": "教育及文化委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -4994,6 +5018,9 @@
       "曾獲全國特優鄉長兩次",
       "中興大學行政研究所",
       "國立屏東師院肄業"
+    ],
+    "remark": [
+      "106年6月12日起停止職權，108年4月3日復職。"
     ],
     "elected_party": "KMT",
     "caucus": "KMT",
@@ -5027,7 +5054,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6AE052C184291B8A9473C14A1A9C4AE454296EC19270E452C18A29A26A94932A6A291C62DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4D8392C1484A6351529BC1A486934993A229E670520E9392C1A84A544D529C2AA64A834C739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1920"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90112.jpg",
@@ -5141,7 +5168,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?84E4522A84291C8A9433C14AC9214AD05429660A9268E452C18A29A26A94932A6A291964DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?9093922A484A83515299C1A472244943A2296682520D9392C1A84A544D529C2AA64A238C739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1901"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90093.jpg",
@@ -5191,6 +5218,12 @@
         "session": 6,
         "chair": false,
         "name": "教育及文化委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
+        "chair": false,
+        "name": "教育及文化委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -5229,7 +5262,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?84E0521A72299A8A9414124A12214AD4542972C19282E052A98A29A26A94932A6A299964DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?9083921A274A535152A012A484244953A229277052508392A9A84A544D529C2AA64A338C739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1895"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90087.jpg",
@@ -5349,7 +5382,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?84E4528172299A8A9473C14AB19C4AD85429860A926C0552C98A29A26A94932A6A291A64DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?90939281274A5351529BC1A46C934963A2296882528D1492C9A84A544D529C2AA64A438C739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1856"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90048.jpg",
@@ -5473,7 +5506,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8CE052A972291B8A9423124A911C4AE0542984C1928AE052B98A29A26A94932A6A291C64DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?918392A9274A6351521912A464834983A229487052518392B9A84A544D529C2AA64A838C739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1810"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90002.jpg",
@@ -5601,7 +5634,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8AE0522A84299B8A94030A4A991C4AD8542984C1928AE052B98A29A26A94932A6A299C64DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?5183922A484A735152180AA466834963A229487052518392B9A84A544D529C2AA64A938C739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1812"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90004.jpg",
@@ -5730,7 +5763,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?660952A982299A8A9454C14A2A214ADC5429680A92600952A98A29A26A94932A6A291866DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CC2492A9284A535152A2C1A48A244973A2298682520C2492A9A84A544D529C2AA64A03CC739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1815"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90007.jpg",
@@ -5864,7 +5897,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?660552B970291C8A9464C94AA99C4AD454298CC992620952B18A29A26A94932A6A299866DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CC1492B9074A83515223C9A46A934953A229C872524C2492B1A84A544D529C2AA64A13CC739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1817"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90009.jpg",
@@ -6024,7 +6057,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?68E452A184299B8A94330A4A1AA04AD854296AC992880952A18A29A26A94932A6A299966DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0D9392A1484A735152990AA486144963A229A67252112492A1A84A544D529C2AA64A33CC739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1818"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90010.jpg",
@@ -6146,7 +6179,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6409522A70299B8A9493C14A2A1C4ADC542964C19262E452A98A29A26A94932A6A291B66DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8C24922A074A7351529CC1A48A834973A2294670524C9392A9A84A544D529C2AA64A63CC739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1826"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90018.jpg",
@@ -6273,7 +6306,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?84E0523284291A8A9414C14A32214AD054298AC19288E452B18A29A26A94932A6A291C66DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?90839232484A435152A0C1A48C244943A229A87052119392B1A84A544D529C2AA64A83CC739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1829"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90021.jpg",
@@ -6373,7 +6406,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?72E0528970299A8A9473C94A32214AD4542962129264E052C98A29A26A94932A6A291A68DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4E839289074A5351529BC9A48C244953A2292684528C8392C9A84A544D529C2AA64A430D739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1844"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90036.jpg",
@@ -6541,7 +6574,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?820952C972291B8A9473C14AB19C4AD8542982C9926E0552A98A29A26A94932A6A299A68DC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?502492C9274A6351529BC1A46C934963A229287252CD1492A9A84A544D529C2AA64A530D739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1846"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90038.jpg",
@@ -6660,7 +6693,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?62E4529170299A8A9414124AC99C4AD85429621292700552C18A29A26A94932A6A29186ADC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4C939291074A535152A012A472934963A2292684520E1492C1A84A544D529C2AA64A034D739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1865"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90057.jpg",
@@ -6716,6 +6749,12 @@
         "session": 6,
         "chair": false,
         "name": "司法及法制委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
+        "chair": false,
+        "name": "教育及文化委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -6728,6 +6767,7 @@
       "五甲國小(1978)"
     ],
     "experience": [
+      "立法院民進黨黨團第九屆第五會期書記長（2018）",
       "第8屆立法委員(2012-2016)",
       "高雄市鳳山區區長(2010-2011)",
       "高雄縣鳳山市市長(2006-2010)",
@@ -6740,11 +6780,11 @@
       {
         "phone": "02-2358-8151",
         "fax": "02-2358-6625",
-        "address": "10051臺北市中正區濟南路1段3-1號0703室",
+        "address": "10051臺北市中正區濟南路1段3-1號0703室　　　　　　Email",
         "name": "國會研究室"
       },
       {
-        "phone": "07-768-2666",
+        "phone": "07-768-1899",
         "fax": "07-768-9900",
         "address": "830高雄市鳳山區保泰路96號",
         "name": "鳳山服務處"
@@ -6764,7 +6804,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8CE452A172299B8A94140A4A129C4AE4542966129272E452C98A29A26A94932A6A29986ADC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?919392A1274A735152A00AA484934993A2296684524E9392C9A84A544D529C2AA64A134D739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1874"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90066.jpg",
@@ -6883,7 +6923,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?60E0523270299B8A9403C94A22A04AD8542966129272E452C98A29A26A94932A6A29996ADC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0C839232074A73515218C9A488144963A2296684524E9392C9A84A544D529C2AA64A334D739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1876"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90068.jpg",
@@ -7001,7 +7041,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?86E4521272291B8A9414C14AA9A04AD854298AA9927215532972A99B6289D62BDA",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?D0939212274A635152A0C1A46A144963A229A86A524E549A29276A734C26B62BAD",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1887"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90079.jpg",
@@ -7098,7 +7138,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8CE4520A84299C8A94930A4AA1A04AD4542972C9926C0952C18A29A26A94932A6A29986CDC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?9193920A484A9351529C0AA468144953A2292772528D2492C1A84A544D529C2AA64A138D739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1892"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90084.jpg",
@@ -7208,7 +7248,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8205528984291C8A9423C14A12A04AD8542972C19282E052A98A29A26A94932A6A29196CDC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?50149289484A83515219C1A484144963A229277052508392A9A84A544D529C2AA64A238D739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1896"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90088.jpg",
@@ -7334,7 +7374,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?60C852898229198494832A4AC9A04AD014296A2A92880552A170299C8A9454A94AC9A26A9433B16E8931DA95D6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0C239289284A2390521C2AA472144943A029A68A52111492A1074A935152A2A9A472544D5299B1E662265B56B6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1903"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90095.jpg",
@@ -7455,7 +7495,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?84E4528172299A8A9473C94A0A214AE45429880A9268E052C98A29A26A94932A6A291A6CDC1313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?90939281274A5351529BC9A482244993A2298882520D8392C9A84A544D529C2AA64A438D739813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1905"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90097.jpg",
@@ -7522,7 +7562,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?64E4528970291B8A94340A4A32A04AD454298CC192620552C98A29A26A94932A6A299960E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8C939289074A635152A10AA48C144953A229C870524C1492C9A84A544D529C2AA64A330C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1914"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90106.jpg",
@@ -7610,7 +7650,7 @@
       {
         "phone": "02-2358-8006",
         "fax": "02-2358-8010",
-        "address": "10051臺北市中正區青島東路10號3501室",
+        "address": "10053臺北市中正區青島東路10號3501室",
         "name": "國會研究室"
       },
       {
@@ -7652,7 +7692,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?68E4522284291B8A94130A4A811C4AD8542966129272E452C98A29A26A94932A6A291A60E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0D939222484A635152980AA460834963A2296684524E9392C9A84A544D529C2AA64A430C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1869"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90061.jpg",
@@ -7769,7 +7809,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?7009521272291B8A9424C14A1A9C4AD4542966C192840952C98A29A26A94932A6A291C60E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0E249212274A63515221C1A486934953A229667052902492C9A84A544D529C2AA64A830C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1886"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90078.jpg",
@@ -7825,6 +7865,12 @@
         "session": 6,
         "chair": false,
         "name": "教育及文化委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
+        "chair": false,
+        "name": "教育及文化委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -7854,10 +7900,16 @@
         "name": "國會研究室"
       },
       {
+        "phone": "04-2261-2525",
+        "fax": "04-2260-3636",
+        "address": "402臺中市南區南平路35-20號",
+        "name": "東南區服務處"
+      },
+      {
         "phone": "04-2376-8701",
         "fax": "04-2376-8702",
         "address": "403臺中市西區美村路一段632號B1",
-        "name": "台中服務處"
+        "name": "中西區服務處"
       }
     ],
     "uid": 1808,
@@ -7874,7 +7926,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?70E0521A72291B8A94030A4AA1214ADC542966129272E452C98A29A26A94932A6A299C60E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0E83921A274A635152180AA468244973A2296684524E9392C9A84A544D529C2AA64A930C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1872"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90064.jpg",
@@ -7992,7 +8044,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8A0552B182291B8A9473C94A32214AD4542960C9928A0952A98A29A26A94932A6A291862E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?511492B1284A6351529BC9A48C244953A229067252512492A9A84A544D529C2AA64A034C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1853"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90045.jpg",
@@ -8112,7 +8164,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8C05523270291C8A9413C94AB9214AD85429621292700552C18A29A26A94932A6A299862E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?91149232074A83515298C9A46E244963A2292684520E1492C1A84A544D529C2AA64A134C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1864"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90056.jpg",
@@ -8221,7 +8273,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?68E0521272299C8A9454C94A899C4ADC542982C1928AE052C18A29A26A94932A6A291962E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0D839212274A935152A2C9A462934973A229287052518392C1A84A544D529C2AA64A234C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1863"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90055.jpg",
@@ -8293,6 +8345,7 @@
     ],
     "term_start": "2016-02-01",
     "education": [
+      "國立臺灣大學生物產業傳播暨發展學系博士候選人",
       "國立臺灣大學農業經濟學系碩士 ",
       "國立臺北大學企業管理學系碩士 ",
       "國立臺灣大學法律學系學士"
@@ -8322,7 +8375,7 @@
       {
         "phone": "08-833-7893",
         "fax": "08-833-9316",
-        "address": "928屏東縣東港鎮光復路一段379號",
+        "address": "928屏東縣東港鎮光復路一段48號",
         "name": "東港服務處"
       },
       {
@@ -8352,7 +8405,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6AE4529982291C8A9434C94AA11C4ADC542966129260E452A98A29A26A94932A6A291A62E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4D939299284A835152A1C9A468834973A2296684520C9392A9A84A544D529C2AA64A434C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1824"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90016.jpg",
@@ -8499,7 +8552,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6809528172299B8A9493C14A2A1C4ADC542966129260E452A98A29A26A94932A6A299A62E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0D249281274A7351529CC1A48A834973A2296684520C9392A9A84A544D529C2AA64A534C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1820"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90012.jpg",
@@ -8628,7 +8681,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6EE4520A84299C8A9434124A129C4AD8542966129272E452C98A29A26A94932A6A291B62E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CD93920A484A935152A112A484934963A2296684524E9392C9A84A544D529C2AA64A634C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1873"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90065.jpg",
@@ -8760,7 +8813,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?68E0521272299C8A9424C14A12A04ADC54296E0A92620552C98A29A26A94932A6A299B62E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0D839212274A93515221C1A484144973A229E682524C1492C9A84A544D529C2AA64A734C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1921"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90113.jpg",
@@ -8832,7 +8885,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6E0552A970291B8A9493124A329C4AD45429620A9268E452C18A29A26A94932A6A291C62E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CD1492A9074A6351529C12A48C934953A2292682520D9392C1A84A544D529C2AA64A834C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1899"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90091.jpg",
@@ -8909,6 +8962,12 @@
       {
         "ad": 9,
         "session": 7,
+        "chair": true,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
         "chair": false,
         "name": "紀律委員會"
       }
@@ -8945,7 +9004,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6205522270299A8A9443C94A891C4AE45429680A92600952A98A29A2709434124A32A24A1914296CC9926C1552998229A28494832A4AB9214AC02429702A928AD452C98AA99272C48389C46BB2DA",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4C149222074A5351521AC9A462834993A2298682520C2492A9A84A540E52A112A48C544964A029C672528D549299284A5490521C2AA46E2449032129078A52515392C9A86A524E131C894CDA565B",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1833"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90025.jpg",
@@ -9059,7 +9118,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?64E052B182299A8A9424C94A2AA04AD4542972C992880952A18A29A26A94932A6A291864E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8C8392B1284A53515221C9A48A144953A229277252112492A1A84A544D529C2AA64A038C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1819"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90011.jpg",
@@ -9157,7 +9216,7 @@
       {
         "phone": "02-2358-8011",
         "fax": "02-2358-8015",
-        "address": "10051臺北市中正區青島東路10號3503室",
+        "address": "10053臺北市中正區青島東路10號3503室",
         "name": "國會研究室"
       }
     ],
@@ -9174,7 +9233,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6805529170299B8A9443C94A22A04AD454298A129288E052C98A29A26A94932A6A299864E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0D149291074A7351521AC9A488144953A229A88452118392C9A84A544D529C2AA64A138C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1911"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90103.jpg",
@@ -9297,7 +9356,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?60E052A170299A8A9434C94A229C4AE454296EC9928AE452B18A29A26A94932A6A291964E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0C8392A1074A535152A1C9A488934993A229E67252519392B1A84A544D529C2AA64A238C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1842"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90034.jpg",
@@ -9424,7 +9483,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6609528984299B8A94530A4AC19C4AD85429700A9262E452A98A29A26A94932A6A299964E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CC249289484A7351529A0AA470934963A2290782524C9392A9A84A544D529C2AA64A338C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1834"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90026.jpg",
@@ -9561,7 +9620,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?7205528970291B8A9473C94A32214AD454298C0A928CE452B18A29A26A94932A6A291A64E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4E149289074A6351529BC9A48C244953A229C88252919392B1A84A544D529C2AA64A438C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1847"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90039.jpg",
@@ -9632,6 +9691,12 @@
       {
         "ad": 9,
         "session": 7,
+        "chair": false,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
         "chair": true,
         "name": "程序委員會"
       }
@@ -9651,8 +9716,14 @@
       {
         "phone": "02-2358-6711",
         "fax": "02-2358-6715",
-        "address": "10051臺北市中正區青島東路10號3506室",
+        "address": "10053臺北市中正區青島東路10號3506室",
         "name": "國會研究室"
+      },
+      {
+        "phone": "02-7751-5668",
+        "fax": "02-2951-1610",
+        "address": "22063新北市板橋區四川路一段290號1樓",
+        "name": "板橋服務處"
       }
     ],
     "uid": 1824,
@@ -9668,7 +9739,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?62E4528184291B8A9434C94A2AA04AD4542966129272E452C98A29A26A94932A6A299A64E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4C939281484A635152A1C9A48A144953A2296684524E9392C9A84A544D529C2AA64A538C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1868"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90060.jpg",
@@ -9844,7 +9915,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8605523272291C8A9473C94A0A214AE454296EC9928AE452B18A29A26A94932A6A291B64E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?D0149232274A8351529BC9A482244993A229E67252519392B1A84A544D529C2AA64A638C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1843"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90035.jpg",
@@ -9944,7 +10015,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?62E0521284291A8A9433C94A32A04AD85429621292700552C18A29A26A94932A6A299B64E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4C839212484A43515299C9A48C144963A2292684520E1492C1A84A544D529C2AA64A738C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1866"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90058.jpg",
@@ -10047,7 +10118,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6EE4522A82299A8A9483C94A0A1C4AE454298A129284E452B18A29A26A94932A6A291C64E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CD93922A284A5351521CC9A482834993A229A88452909392B1A84A544D529C2AA64A838C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1880"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90072.jpg",
@@ -10144,34 +10215,50 @@
         "session": 7,
         "chair": false,
         "name": "財政委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
+        "chair": false,
+        "name": "程序委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
+        "chair": false,
+        "name": "經費稽核委員會"
+      },
+      {
+        "ad": 9,
+        "session": 8,
+        "chair": false,
+        "name": "程序委員會"
       }
     ],
     "term_start": "2016-02-01",
     "education": [
-      "臺北大學企業管理研究所博士"
+      "臺北大學企業管理研究所博士",
+      "高雄第一科技大學名譽博士"
     ],
     "experience": [
       "合作金庫銀行副總經理、總經理",
-      "行政院金融監督管理委員會銀行局副局長",
-      "行政院金融監督管理委員會檢查局局長",
-      "財政部常務次長兼國安基金執行秘書",
-      "財政部政務次長兼國安基金執行秘書",
+      "金融監督管理委員會銀行局副局長、檢查局局長",
+      "財政部常務次長、政務次長兼國安基金執行秘書",
       "財政部政務次長兼臺灣金控暨臺灣銀行董事長",
       "金融監督管理委員會主任委員",
+      "台北大學講座教授",
       "其他事項：",
-      "一、合作金庫銀行總經理(2001年-2004年)",
-      "經營合庫銀行，績效深獲肯定。 擔任合庫銀行總經理期間，就任時逾期放款金額高達907億元，逾期放款比率高達7.7％，截至93年7月卸任時，逾期放款金額已降為498億元，逾期放款比率降為3.98％，且三個年度均超逾預算盈餘目標，經營績效經行政院考列為甲等，並深受同業及員工肯定。",
-      "二、財政部次長(2008年-2013年)",
-      "金融海嘯期間，執行股市護盤，達成穩定股市目標。 財政部次長任內兼任國安基金執行秘書，於97年8月至12月底，及100年12月至101年１月間，執行2次股市護盤工作，不僅達成穩定股市目標，且獲利高達374億元，對穩定股市、維持股市流動性及國庫收入均有重大貢獻",
-      "三、金管會主委(2013年-2016年)",
-      "金管會主委任內推動金融打亞洲盃、金融進口替代、OBU業務負面表列、接管清算幸福人壽等三家問題保險公司、建立OIU境外保險制度、建立保險業立即糾正措施、開放當沖交易制度、放寬交易漲跌幅為10％及創立創櫃板制度政績卓著，被外界認為是歷年來最具開創性的主委！並榮獲總統府及行政院頒發「景星勳章」及「一等功績獎章」",
-      "四、2014年獲頒「李國鼎管理獎章」",
-      "五、「公民監督國會聯盟」評鑑為:優秀立委",
-      "六、「口袋國會」評鑑為：",
-      "(一)財政、內政委員會表現最優良立委",
-      "(二)全院優質立委(全院僅3名委員獲獎)",
-      "七、當選立法院國民黨團9-5會期首席副書記長",
-      "八、當選立法院國民黨團9-6會期書記長"
+      "一、財政部次長(2008年-2013年)",
+      "兼任國安基金執行秘書， 97.8-12及100.12-101.1間，執行2次股市護盤工作，獲利高達374億元，對穩定股市、維持股市流動性及國庫收入均有重大貢獻。另召集公股銀行研提「青年安心成家方案」，辦理青年首次購屋貸款，截至目前已超過28萬戶，貸款金額計1兆1千億元，對協助青年朋友安心成家，卓有效益。",
+      "二、金管會主委(2013年-2016年)",
+      "任內推動金融打亞洲盃、金融進口替代、OBU業務負面表列、接管清算幸福人壽等三家問題保險公司、建立OIU境外保險制度、建立保險業立即糾正措施、開放當沖交易制度、放寬交易漲跌幅為10％及創立創櫃板制度政績卓著，被外界認為是歷年來最具開創性的主委！並榮獲總統府頒發景星勳章。",
+      "三、2014年獲頒「李國鼎管理獎章」",
+      "四、提案立法績效：",
+      "(一)為維持金融秩序，保護消費者權益，全面修正提高銀行法(108.4.17總統公布)、金控法(108.1.16總統公布)罰鍰金額，俾利產生嚇阻作用，維持金融穩定。",
+      "(二)為利金融創新，實現普惠金融，推動金融科技發展與創新實驗條例完成立法於107年1月31日總統公布實施。",
+      "(三)為維持國家財政穩健，推動財政紀律法完成立法於108年4月10日總統公布實施。",
+      "五、「公民監督國會聯盟」評鑑為:優秀立委；「口袋國會」評鑑為：財政、內政委員會表現最優良立委、全院優質立委(全院僅3名委員獲獎)",
+      "六、現任立法院國民黨黨團書記長、總召集人兼國民黨政策委員會執行長"
     ],
     "elected_party": "KMT",
     "caucus": "KMT",
@@ -10196,7 +10283,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?82E452A172291C8A9424C94AB1A04AD8542960C9928A0952A98A29A26A94932A6A299C64E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?509392A1274A83515221C9A46C144963A229067252512492A9A84A544D529C2AA64A938C839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1855"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90047.jpg",
@@ -10295,7 +10382,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8AE4521A72299C8A9403C14AB9A04ADC542966129272E452C98A291C829413C94AA9A24A155329722A9A4AC033C16213B6CAB5",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?5193921A274A93515218C1A46E144973A2296684524E9392C9A84A83505298C9A46A5449549A29278A53490399C126C4D659D6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1835"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90027.jpg",
@@ -10422,7 +10509,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?86E052C970299A8A9453C94A22A04AE454296812926E0952A98A29A2709434124A32A24AE0142968C9926E1552A98229218494432A4A2A1C4A0D24298C2A928AE4522284291B8A9483C94A12A04AE454298AA9927215532962991C6289D62BDA",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?D08392C9074A5351529AC9A488144993A229868452CD2492A9A84A540E52A112A48C544983A029867252CD5492A9284A2490521A2AA48A8349342129C88A5251939222484A6351521CC9A484144993A229A86A524E549A292666834C26B62BAD",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1859"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90051.jpg",
@@ -10532,6 +10619,15 @@
       "小米穗原住民族文化基金會董事暨執行長 ",
       "台灣原住民族政策協會理事"
     ],
+    "term_end": {
+      "reason": "喪失黨籍",
+      "date": "2019-09-04",
+      "replacement": "鄭秀玲"
+    },
+    "remark": [
+      "喪失黨籍",
+      "遞補委員：鄭秀玲"
+    ],
     "elected_party": "NPP",
     "caucus": "NPP",
     "contacts": [
@@ -10555,7 +10651,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8AE052C172291B8A9483124A81214AD8542960C9928A0952A98A29A26A94932A6A291966E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?518392C1274A6351521C12A460244963A229067252512492A9A84A544D529C2AA64A23CC839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1852"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90044.jpg",
@@ -10675,7 +10771,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6805528972299B8A9444C94A811C4AD8542966129260E452A98A29A26A94932A6A299966E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0D149289274A73515222C9A460834963A2296684520C9392A9A84A544D529C2AA64A33CC839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1823"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90015.jpg",
@@ -10731,6 +10827,12 @@
         "session": 6,
         "chair": false,
         "name": "教育及文化委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
+        "chair": false,
+        "name": "教育及文化委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -10772,7 +10874,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?72E0522A82299A8A94340A4A819C4AE05429660A9268E452C18A29A26A94932A6A291A66E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4E83922A284A535152A10AA460934983A2296682520D9392C1A84A544D529C2AA64A43CC839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1902"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90094.jpg",
@@ -10892,7 +10994,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?60E052B982299B8A94530A4A22214AD454298AC19288E452B18A29A26A94932A6A299A66E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0C8392B9284A7351529A0AA488244953A229A87052119392B1A84A544D529C2AA64A53CC839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1830"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90022.jpg",
@@ -11030,7 +11132,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?60E4522284291A8A9463124AC19C4AD854296EC9928AE452B18A29A26A94932A6A291B66E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0C939222484A4351521B12A470934963A229E67252519392B1A84A544D529C2AA64A63CC839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1838"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90030.jpg",
@@ -11039,7 +11141,8 @@
     "english_name": "Lim, Tshiong-Tso",
     "gender": "男",
     "ad": 9,
-    "party": "NPP",
+    "elected_party": "NPP",
+    "party": null,
     "constituency": [
       "TPE",
       5
@@ -11101,8 +11204,10 @@
       "獨立音樂協會理事長",
       "曾獲金曲獎、總統文化獎"
     ],
-    "elected_party": "NPP",
-    "caucus": "NPP",
+    "remark": [
+      "108年8月1日退出時代力量及時代力量立法院黨團"
+    ],
+    "caucus": null,
     "contacts": [
       {
         "phone": "02-2358-6121",
@@ -11130,7 +11235,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8A0952B184299B8A94240A4A22A04AD4542964C19262E452A98A29A26A94932A6A299B66E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?512492B1484A735152210AA488144953A2294670524C9392A9A84A544D529C2AA64A73CC839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1827"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90019.jpg",
@@ -11255,7 +11360,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6E0552A970291B8A94730A4AB9214AD454296EC19270E452C18A29A26A94932A6A291C66E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CD1492A9074A6351529B0AA46E244953A229E670520E9392C1A84A544D529C2AA64A83CC839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1917"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90109.jpg",
@@ -11303,6 +11408,12 @@
       {
         "ad": 9,
         "session": 6,
+        "chair": false,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
         "chair": false,
         "name": "教育及文化委員會"
       }
@@ -11363,7 +11474,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?700952C972299C8A9464C14A2AA04AD454296A1292860952A98A29A26A94932A6A299C66E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0E2492C9274A93515223C1A48A144953A229A68452D02492A9A84A544D529C2AA64A93CC839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1860"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90052.jpg",
@@ -11472,7 +11583,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8C0952A172291B8A9443124AB91C4AE054296AC1928A0952B98A29A26A94932A6A291868E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?912492A1274A6351521A12A46E834983A229A67052512492B9A84A544D529C2AA64A030D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1916"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90108.jpg",
@@ -11584,7 +11695,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?86E052C172291B8A9483124A81214AD854298CC992620952B18A29A26A94932A6A299868E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?D08392C1274A6351521C12A460244963A229C872524C2492B1A84A544D529C2AA64A130D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1816"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90008.jpg",
@@ -11692,7 +11803,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?70E4520A70299C8A94140A4A819C4ADC542966129260E452A98A29A26A94932A6A291968E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0E93920A074A935152A00AA460934973A2296684520C9392A9A84A544D529C2AA64A230D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1825"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90017.jpg",
@@ -11802,7 +11913,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?86E052C172291B8A9424C14A1A9C4AD4542966C192840952C98A29A26A94932A6A299968E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?D08392C1274A63515221C1A486934953A229667052902492C9A84A544D529C2AA64A330D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1885"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90077.jpg",
@@ -11914,7 +12025,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8AE0522A84299B8A94030A4AA1214ADC5429681292660952C18A2999849493C94AC9A24A155329722A9A4AD043C16213B6CAB5",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?5183922A484A735152180AA468244973A229868452CC2492C1A84A3390529CC9A4725449549A29278A5349431AC126C4D659D6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1879"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90071.jpg",
@@ -12033,7 +12144,7 @@
       {
         "phone": "03-477-0123",
         "fax": "03-477-2238",
-        "address": "327桃園市新屋區電信街13號",
+        "address": "327桃園市新屋區中山路141號",
         "name": "新屋區服務處"
       }
     ],
@@ -12050,7 +12161,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6EE0522A82299A8A94330A4A22A04AD8542972C9926C0952C18A29A26A94932A6A299A68E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CD83922A284A535152990AA488144963A2292772528D2492C1A84A544D529C2AA64A530D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1893"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90085.jpg",
@@ -12147,7 +12258,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?7009520A84299A8A9483C14AA91C4AD85429820A92680952B18A29A26A94932A6A291B68E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0E24920A484A5351521CC1A46A834963A2292882520D2492B1A84A544D529C2AA64A630D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1851"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90043.jpg",
@@ -12156,7 +12267,8 @@
     "english_name": "Hung, Tzu-Yung",
     "gender": "女",
     "ad": 9,
-    "party": "NPP",
+    "elected_party": "NPP",
+    "party": null,
     "constituency": [
       "TXG",
       3
@@ -12225,8 +12337,10 @@
       "遠綠科技公司專案經理",
       "GfK捷孚凱行銷研究顧問公司零售通路服務專員"
     ],
-    "elected_party": "NPP",
-    "caucus": "NPP",
+    "remark": [
+      "108年8月13日退出時代力量及時代力量立法院黨團"
+    ],
+    "caucus": null,
     "contacts": [
       {
         "phone": "02-2358-6581",
@@ -12260,7 +12374,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6AE0528182299A8A94340A4A819C4AE054296CC992840952A98A299A849434124AA9A24A155329722A9A4ADC43C16213B6CAB5",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4D839281284A535152A10AA460934983A229C67252902492A9A84A539052A112A46A5449549A29278A5349731AC126C4D659D6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1861"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90053.jpg",
@@ -12316,6 +12430,12 @@
         "session": 6,
         "chair": false,
         "name": "教育及文化委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
+        "chair": false,
+        "name": "教育及文化委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -12362,7 +12482,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?640952B170291B8A9414C14A32214AD054296EC9928AE452B18A29A26A94932A6A291C68E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8C2492B1074A635152A0C1A48C244943A229E67252519392B1A84A544D529C2AA64A830D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1837"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90029.jpg",
@@ -12475,7 +12595,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6EE0522A82299A8A9414C94A2AA04AD4542984C1928AE052B98A29A26A94932A6A299C68E01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CD83922A284A535152A0C9A48A144953A229487052518392B9A84A544D529C2AA64A930D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1811"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90003.jpg",
@@ -12547,9 +12667,9 @@
     ],
     "term_start": "2016-02-01",
     "education": [
-      "成功大學外文系80級",
-      "成功大學管理學院高階管理碩士97級",
-      "長榮大學經營管理所博士班"
+      "國立成功大學外文系",
+      "國立成功大學企管碩士",
+      "國立台北大學企管博士"
     ],
     "experience": [
       "臺南市議會第15、16屆議員",
@@ -12571,16 +12691,16 @@
         "name": "國會研究室"
       },
       {
-        "phone": "06-2739-217",
-        "fax": "06-2739-817",
-        "address": "710臺南市永康區永大路一段259號(永大路及大灣東路口)",
-        "name": "永康服務處"
-      },
-      {
         "phone": "06-330-2318~9",
         "fax": "06-338-7412",
-        "address": "711臺南市歸仁區中山路三段129號",
+        "address": "71152臺南市歸仁區中山路三段129號",
         "name": "南關線服務處"
+      },
+      {
+        "phone": "06-289-8558",
+        "fax": "06-289-8559",
+        "address": "70157臺南市東區自由路二段209巷5號",
+        "name": "東區服務處"
       }
     ],
     "uid": 1849,
@@ -12596,7 +12716,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6CE0520A72299C8A9454C94A899C4ADC5429681292660952C18A29A26A94932A6A29186AE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8D83920A274A935152A2C9A462934973A229868452CC2492C1A84A544D529C2AA64A034D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1910"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90102.jpg",
@@ -12715,7 +12835,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6609520A70291C8A9403C14AB9A04ADC542966C192840952C98A29A26A94932A6A29986AE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CC24920A074A83515218C1A46E144973A229667052902492C9A84A544D529C2AA64A134D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1882"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90074.jpg",
@@ -12812,7 +12932,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?600552B170299B8A9473C94A2AA04AD45429820A92680952B18A29A26A94932A6A29196AE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0C1492B1074A7351529BC9A48A144953A2292882520D2492B1A84A544D529C2AA64A234D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1850"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90042.jpg",
@@ -12919,7 +13039,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?70E452A182299C8A9433C94AC19C4AD85429620A9268E452C18A29A26A94932A6A29996AE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0E9392A1284A93515299C9A470934963A2292682520D9392C1A84A544D529C2AA64A334D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1898"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90090.jpg",
@@ -13052,7 +13172,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6209523284291B8A9433124A22214AD054298A129288E052C98A29A26A94932A6A291A6AE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4C249232484A6351529912A488244943A229A88452118392C9A84A544D529C2AA64A434D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1912"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90104.jpg",
@@ -13100,6 +13220,12 @@
       {
         "ad": 9,
         "session": 6,
+        "chair": false,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
         "chair": false,
         "name": "教育及文化委員會"
       }
@@ -13152,7 +13278,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?72E052B970291B8A94930A4A891C4AE45429620A9268E452C18A29A26A94932A6A299A6AE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4E8392B9074A6351529C0AA462834993A2292682520D9392C1A84A544D529C2AA64A534D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1900"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90092.jpg",
@@ -13273,7 +13399,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8C0552A984291B8A94540A4A2A1C4AE4542982C1926A0552B18A29A26A94932A6A291B6AE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?911492A9484A635152A20AA48A834993A2292870524D1492B1A84A544D529C2AA64A634D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1888"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90080.jpg",
@@ -13389,7 +13515,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8605520A70291C8A9473C94A0A214AE454298AC19288E452B18A29A26A94932A6A299B6AE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?D014920A074A8351529BC9A482244993A229A87052119392B1A84A544D529C2AA64A734D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1923"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90115.jpg",
@@ -13467,6 +13593,12 @@
         "ad": 9,
         "session": 7,
         "chair": false,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
+        "chair": false,
         "name": "程序委員會"
       }
     ],
@@ -13487,7 +13619,7 @@
       {
         "phone": "02-2358-8328",
         "fax": "02-2358-8245",
-        "address": "100臺北市中正區青島東路1號3111室",
+        "address": "10051臺北市中正區青島東路1號3111室",
         "name": "國會研究室"
       }
     ],
@@ -13504,7 +13636,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6609520A70291C8A94930A4A2A214ADC54298812926CE452B18A29A26A94932A6A291C6AE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CC24920A074A8351529C0AA48A244973A2298884528D9392B1A84A544D529C2AA64A834D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1922"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90114.jpg",
@@ -13624,7 +13756,7 @@
       {
         "phone": "02-2358-8156",
         "fax": "02-2358-8160",
-        "address": "100臺北市中正區濟南路一段3-1號0701室",
+        "address": "10051臺北市中正區濟南路一段3-1號0701室",
         "name": "國會研究室"
       }
     ],
@@ -13641,7 +13773,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8A05520A84291A8A94330A4A22A04AD85429880A9266E052C98A29A26A94932A6A291966E40313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?5114920A484A435152990AA488144963A229888252CC8392C9A84A544D529C2AA64A23CC931813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1924"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90116.jpg",
@@ -13758,7 +13890,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?60E4520A84291B8A9403124A99214AD8542962129264E052C98A29A26A94932A6A299C6AE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?0C93920A484A6351521812A466244963A2292684528C8392C9A84A544D529C2AA64A934D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1925"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90117.jpg",
@@ -13873,7 +14005,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?72E0522A82299A8A9434C94AA9214ADC5429660A9268E452C18A29A26A94932A6A29186CE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4E83922A284A535152A1C9A46A244973A2296682520D9392C1A84A544D529C2AA64A038D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=20907"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90118.jpg",
@@ -13915,10 +14047,12 @@
     "term_start": "2018-07-17",
     "education": [
       "國立中央大學客家學院社會科學碩士",
-      "國立臺灣大學國家發展研究所碩士",
+      "國立臺灣大學國家發展研究所法學碩士",
       "國立中央大學客家學院客家研究博士班"
     ],
     "experience": [
+      "立法院第九屆民進黨不分區立法委員",
+      "口袋國會評鑑「全院整體多元表現優質委員」和「內政委員會優質委員」",
       "桃園市政府客家事務局局長",
       "國際拼布藝術創作家",
       "中廣、華視、民視等媒體記者、主播、主持人",
@@ -13948,7 +14082,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8C05523270291C8A9453C94AA9A04AD454296EC9928AE452B18A29A26A94932A6A29196CE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?91149232074A8351529AC9A46A144953A229E67252519392B1A84A544D529C2AA64A238D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=21136"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90119.jpg",
@@ -13967,6 +14101,12 @@
         "session": 6,
         "chair": false,
         "name": "內政委員會"
+      },
+      {
+        "ad": 9,
+        "session": 7,
+        "chair": false,
+        "name": "教育及文化委員會"
       },
       {
         "ad": 9,
@@ -13996,6 +14136,12 @@
         "fax": "02-2358-6115",
         "address": "10053臺北市中正區青島東路10號3502室",
         "name": "國會研究室"
+      },
+      {
+        "phone": "02-2700-3663",
+        "fax": "02-2700-3664",
+        "address": "10665臺北市大安區復興南路2段133號6樓",
+        "name": "大安服務處"
       }
     ],
     "uid": 1862,
@@ -14011,7 +14157,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8CE052A972291B8A9434C94A229C4AE4542966129272E452C98A29A26A94932A6A29986CE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?918392A9274A635152A1C9A488934993A2296684524E9392C9A84A544D529C2AA64A138D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=21156"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90120.jpg",
@@ -14059,7 +14205,7 @@
       {
         "phone": "02-2358-8566",
         "fax": "02-2358-8570",
-        "address": "臺北市中正區濟南路一段3-1號1105室",
+        "address": "10051臺北市中正區濟南路一段3-1號1105室",
         "name": "國會研究室"
       }
     ],
@@ -14076,7 +14222,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?88E0523270299B8A94030A4A991C4AD854296A0A92840552B98A29A26A94932A6A29996CE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?11839232074A735152180AA466834963A229A68252901492B9A84A544D529C2AA64A338D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=33011"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90121.jpg",
@@ -14145,7 +14291,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?72E0528970299A8A9473C94A32214AD454296AC992880952A18A29A26A94932A6A291A6CE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?4E839289074A5351529BC9A48C244953A229A67252112492A1A84A544D529C2AA64A438D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=33078"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90123.jpg",
@@ -14209,7 +14355,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?84E0522A72291B8A9483C14A899C4AD454298C0A928CE452B18A29A26A94932A6A291B6CE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?9083922A274A6351521CC1A462934953A229C88252919392B1A84A544D529C2AA64A638D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=33192"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90126.jpg",
@@ -14282,7 +14428,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?6EE052B172291B8A9424C14A1A9C4AD45429880A9266E052C98A29A26A94932A6A299A6CE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?CD8392B1274A63515221C1A486934953A229888252CC8392C9A84A544D529C2AA64A538D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=33171"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90125.jpg",
@@ -14347,7 +14493,7 @@
   {
     "in_office": true,
     "links": {
-      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?88E0523270299B8A9493C14A2A1C4ADC542966129272E452C98A29A26A94932A6A299B6CE01313DA2BB6",
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?11839232074A7351529CC1A48A834973A2296684524E9392C9A84A544D529C2AA64A738D839813ADCAD6",
       "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=33213"
     },
     "image": "https://www.ly.gov.tw/Images/Legislators/90127.jpg",
@@ -14356,7 +14502,8 @@
     "english_name": "Chen Yu-Jen",
     "gender": "女",
     "ad": 9,
-    "party": null,
+    "elected_party": null,
+    "party": "KMT",
     "constituency": [
       "KIN",
       0
@@ -14365,6 +14512,12 @@
       {
         "ad": 9,
         "session": 7,
+        "chair": false,
+        "name": "司法及法制委員會"
+      },
+      {
+        "ad": 9,
+        "session": 8,
         "chair": false,
         "name": "司法及法制委員會"
       }
@@ -14383,7 +14536,9 @@
       "台灣「日本交流協會」獎學金",
       "中國國家教委會獎學金"
     ],
-    "elected_party": null,
+    "remark": [
+      "108年8月14日起恢復中國國民黨黨籍"
+    ],
     "caucus": "KMT",
     "contacts": [
       {
@@ -14393,8 +14548,8 @@
         "name": "國會研究室"
       },
       {
-        "phone": null,
-        "fax": null,
+        "phone": "082-320-706　委員手機",
+        "fax": "082-311-288",
         "address": "89345金門縣金城鎮民權路27號1樓",
         "name": "金門服務處"
       }
@@ -14408,5 +14563,72 @@
 
     ],
     "avatar": "http://avatars.io/50a65bb26e293122b0000073/73e2c242d83a977255c20a6599f1cc8c"
+  },
+  {
+    "in_office": true,
+    "links": {
+      "npl": "https://lis.ly.gov.tw/lylegisc/lylegiskmout?8C24922A074A73515218C1A46E144973A2298882520D8392C9A84A544D529C2AA64A838D839813ADCAD6",
+      "ly": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=33402"
+    },
+    "image": "https://www.ly.gov.tw/Images/Legislators/90128.jpg",
+    "title": "立法委員",
+    "name": "鄭秀玲",
+    "english_name": "JANG SHOW LING",
+    "gender": "女",
+    "ad": 9,
+    "party": "NPP",
+    "constituency": [
+      "proportional"
+    ],
+    "committees": [
+      {
+        "ad": 9,
+        "session": 8,
+        "chair": false,
+        "name": "內政委員會"
+      }
+    ],
+    "term_start": "2019-09-11",
+    "education": [
+      "美國壬色列理工學院經濟研究所博士",
+      "國立台灣大學土木學研究所交通工程組碩士",
+      "國立台灣大學經濟系學士"
+    ],
+    "experience": [
+      "國立台灣大學經濟學系暨研究所教授",
+      "國立台灣大學經濟學系主任",
+      "國立台灣大學社科院研發分處主任",
+      "國立台灣大學經濟學系暨研究所副教授",
+      "美國加州大學, Berkeley分校訪問學者",
+      "台灣經濟研究院顧問",
+      "工業技術研究院顧問",
+      "交通部通訊傳播委員會委員",
+      "美國Rensselaer Polytechnic Institute管理學院商學系助理教授",
+      "美國George Mason University商學院Dept. of Decision Sciences助理教授",
+      "美國D.C. Public Service Commission Economist/Expert Witness",
+      "美國Rensselaer Polytechnic Institute Center for Science & Technology Policy研究員",
+      "內政部營建署薦任技士",
+      "公務員建設人員高考及格",
+      "貿易公司職員"
+    ],
+    "elected_party": "NPP",
+    "caucus": "NPP",
+    "contacts": [
+      {
+        "phone": "02-2358-8551",
+        "fax": "02-2358-8555",
+        "address": "10051臺北市中正區濟南路1段3-1號1008室",
+        "name": "國會研究室"
+      }
+    ],
+    "uid": 1869,
+    "identifiers": null,
+    "ads": [
+      9
+    ],
+    "former_names": [
+
+    ],
+    "avatar": "http://avatars.io/50a65bb26e293122b0000073/c0cea689fd965a2e2a9a64e541d62916"
   }
 ]

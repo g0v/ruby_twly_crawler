@@ -75,7 +75,7 @@ def main()
     find_in_uids = false
     uids.each do |uid|
       if uid[:uid] == l['uid'].to_i
-        uid[:ads] = (uid[:ads] | l['ads'])
+        uid[:ads] = (uid[:ads] | l['ads']).sort
         find_in_uids = true
         break
       end
