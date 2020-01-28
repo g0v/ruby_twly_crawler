@@ -58,6 +58,10 @@ def party_code(party)
     code = 'NPP'
   when '民國黨'
     code = 'MKT'
+  when '台灣基進'
+    code = 'TSP'
+  when '台灣民眾黨'
+    code = 'TPP'
   when /無(黨籍)?/
     code = nil
   when '其他'
