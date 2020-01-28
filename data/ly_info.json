@@ -27925,8 +27925,8 @@
       "玉山國家公園解說員",
       "立法院民進黨團首席助理",
       "第2屆國大代表",
-      "台東市市長2任8年",
-      "高雄市政府簡任顧問",
+      "台東市市長2任",
+      "8年高雄市政府簡任顧問",
       "台灣省選委會委員",
       "文建會諮詢委員",
       "行政院東部辦公室副執行長",
@@ -42807,6 +42807,12 @@
         "session": "7",
         "chair": false,
         "name": "司法及法制委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "司法及法制委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -42924,6 +42930,12 @@
         "session": "7",
         "chair": false,
         "name": "社會福利及衛生環境委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "社會福利及衛生環境委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -43011,6 +43023,18 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "外交及國防委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "紀律委員會"
       }
@@ -43161,6 +43185,12 @@
         "session": "7",
         "chair": false,
         "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "財政委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -43247,6 +43277,12 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經濟委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -43370,6 +43406,30 @@
         "session": "7",
         "chair": false,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "7",
+        "chair": false,
+        "name": "經費稽核委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "司法及法制委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經費稽核委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -43445,6 +43505,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "財政委員會"
       }
@@ -43588,6 +43654,12 @@
         "session": "7",
         "chair": false,
         "name": "外交及國防委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "外交及國防委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -43694,6 +43766,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "外交及國防委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "外交及國防委員會"
       }
@@ -43814,6 +43892,12 @@
         "session": "7",
         "chair": false,
         "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "財政委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -43927,6 +44011,18 @@
         "session": "7",
         "chair": false,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "社會福利及衛生環境委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "程序委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -44018,6 +44114,12 @@
         "session": "7",
         "chair": false,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "司法及法制委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -44101,6 +44203,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "財政委員會"
       }
@@ -44210,6 +44318,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "教育及文化委員會"
       }
@@ -44342,6 +44456,30 @@
         "session": "7",
         "chair": false,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "7",
+        "chair": true,
+        "name": "經費稽核委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "外交及國防委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經費稽核委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -44427,11 +44565,18 @@
         "session": "7",
         "chair": false,
         "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "內政委員會"
       }
     ],
     "term_start": "2016-02-01",
     "education": [
-      "德霖技術學院畢"
+      "德霖技術學院畢",
+      "世新大學企業管理學碩士"
     ],
     "experience": [
       "2002年土城市民代表",
@@ -44440,6 +44585,7 @@
       "2010年當選新北市第1屆市議員",
       "2013、2014年擔任議會教育召集人",
       "2014年當選新北市第2屆市議員",
+      "2019年立法院民進黨團第九屆第八會期副書記長",
       "新北市消防局義勇消防隊第5大隊大隊長",
       "土城區雲林同鄉會創會長",
       "新北市礦工協會榮譽理事長",
@@ -44532,6 +44678,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "外交及國防委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "外交及國防委員會"
       }
@@ -44755,6 +44907,12 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "交通委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -44846,6 +45004,18 @@
         "session": "7",
         "chair": false,
         "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -44966,6 +45136,12 @@
         "session": "7",
         "chair": false,
         "name": "社會福利及衛生環境委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "社會福利及衛生環境委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -45051,6 +45227,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "交通委員會"
       }
@@ -45185,6 +45367,24 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "司法及法制委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -45290,6 +45490,30 @@
         "session": "7",
         "chair": false,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "7",
+        "chair": false,
+        "name": "經費稽核委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經費稽核委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -45391,6 +45615,12 @@
         "session": "7",
         "chair": false,
         "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經濟委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -45479,6 +45709,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "交通委員會"
       }
@@ -45571,6 +45807,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "外交及國防委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "外交及國防委員會"
       }
@@ -45688,6 +45930,18 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -45774,6 +46028,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "社會福利及衛生環境委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "社會福利及衛生環境委員會"
       }
@@ -45882,6 +46142,12 @@
         "session": "7",
         "chair": false,
         "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "財政委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -45929,6 +46195,12 @@
     "caucus": "民主進步黨",
     "constituency": "全國不分區及僑居國外國民",
     "committees": [
+      {
+        "ad": "9",
+        "session": "0",
+        "chair": false,
+        "name": "社會福利及衛生環境委員會"
+      },
       {
         "ad": "9",
         "session": "1",
@@ -46004,6 +46276,18 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "外交及國防委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "程序委員會"
       }
@@ -46083,6 +46367,24 @@
         "session": "7",
         "chair": false,
         "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "7",
+        "chair": true,
+        "name": "經費稽核委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經費稽核委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -46191,6 +46493,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "經濟委員會"
       }
@@ -46327,6 +46635,12 @@
         "session": "7",
         "chair": false,
         "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經濟委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -46434,6 +46748,18 @@
         "session": "7",
         "chair": true,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "程序委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -46513,6 +46839,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "司法及法制委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "司法及法制委員會"
       }
@@ -46650,6 +46982,18 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "司法及法制委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -46723,6 +47067,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "內政委員會"
       }
@@ -46821,6 +47171,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "司法及法制委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "司法及法制委員會"
       }
@@ -46939,6 +47295,24 @@
         "session": "7",
         "chair": false,
         "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "7",
+        "chair": false,
+        "name": "經費稽核委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經費稽核委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -47027,6 +47401,12 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "社會福利及衛生環境委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -47135,6 +47515,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "外交及國防委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "外交及國防委員會"
       }
@@ -47268,6 +47654,18 @@
         "session": "7",
         "chair": true,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -47364,6 +47762,12 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "內政委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -47456,6 +47860,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "教育及文化委員會"
       }
@@ -47555,6 +47965,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "經濟委員會"
       }
@@ -47667,6 +48083,12 @@
         "session": "7",
         "chair": false,
         "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "交通委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -47758,6 +48180,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "教育及文化委員會"
       }
@@ -47853,6 +48281,18 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "程序委員會"
       }
@@ -47992,6 +48432,36 @@
         "session": "7",
         "chair": false,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "7",
+        "chair": false,
+        "name": "經費稽核委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "社會福利及衛生環境委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "經費稽核委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -48124,6 +48594,12 @@
         "session": "7",
         "chair": false,
         "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "內政委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -48206,6 +48682,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "交通委員會"
       }
@@ -48301,6 +48783,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "經濟委員會"
       }
@@ -48403,6 +48891,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "交通委員會"
       }
@@ -48543,6 +49037,30 @@
         "session": "7",
         "chair": false,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "7",
+        "chair": false,
+        "name": "經費稽核委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "外交及國防委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "經費稽核委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -48637,6 +49155,12 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "交通委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -48734,6 +49258,18 @@
         "session": "7",
         "chair": false,
         "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -48822,6 +49358,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "交通委員會"
       }
@@ -48930,6 +49472,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "社會福利及衛生環境委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "社會福利及衛生環境委員會"
       }
@@ -49045,6 +49593,12 @@
         "session": "7",
         "chair": false,
         "name": "教育及文化委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "教育及文化委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -49142,6 +49696,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "財政委員會"
       }
@@ -49312,7 +49872,19 @@
         "ad": "9",
         "session": "8",
         "chair": false,
+        "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "經費稽核委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -49416,6 +49988,18 @@
         "session": "7",
         "chair": false,
         "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -49506,6 +50090,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "社會福利及衛生環境委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "社會福利及衛生環境委員會"
       }
@@ -49608,6 +50198,12 @@
         "session": "7",
         "chair": false,
         "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "內政委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -49690,6 +50286,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "財政委員會"
       }
@@ -49795,6 +50397,12 @@
         "session": "7",
         "chair": false,
         "name": "教育及文化委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "教育及文化委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -49890,6 +50498,12 @@
         "session": "7",
         "chair": false,
         "name": "社會福利及衛生環境委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "社會福利及衛生環境委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -49977,6 +50591,18 @@
         "session": "7",
         "chair": false,
         "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -50068,6 +50694,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "經濟委員會"
       }
@@ -50172,6 +50804,12 @@
         "session": "7",
         "chair": false,
         "name": "司法及法制委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "司法及法制委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -50265,6 +50903,18 @@
         "session": "7",
         "chair": false,
         "name": "外交及國防委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "外交及國防委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -50353,6 +51003,12 @@
         "session": "7",
         "chair": false,
         "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "內政委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -50439,6 +51095,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "內政委員會"
       }
@@ -50535,6 +51197,12 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "社會福利及衛生環境委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -50630,6 +51298,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "交通委員會"
       }
@@ -50742,6 +51416,12 @@
         "session": "7",
         "chair": false,
         "name": "司法及法制委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "司法及法制委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -50849,6 +51529,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "財政委員會"
       }
@@ -50987,6 +51673,12 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "教育及文化委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -51074,6 +51766,12 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "外交及國防委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -51166,6 +51864,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "教育及文化委員會"
       }
@@ -51261,6 +51965,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "社會福利及衛生環境委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "社會福利及衛生環境委員會"
       }
@@ -51368,6 +52078,12 @@
         "session": "7",
         "chair": false,
         "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經濟委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -51375,15 +52091,26 @@
       "國立臺灣大學法律系畢業"
     ],
     "experience": [
-      "第8屆立法委員",
-      "省府法規會編審",
-      "省原住民行政局副局長",
-      "省原住民事務委員會副主任委員",
+      "第8屆、第9屆立法委員",
+      "臺灣省政府法規會編審",
+      "臺灣省政府原住民行政局副局長",
+      "臺灣省政府原住民事務委員會副主任委員",
       "行政院原住民族委員會教育文化處處長、社會福利處處長、企劃處處長",
       "行政院原住民族委員會副主任委員",
       "臺灣省政府副秘書長",
       "榮獲考試院頒發91年公務人員傑出貢獻獎",
-      "法務部司法官學院講師"
+      "法務部司法官學院講師",
+      "【獲頒財經立法促進院國會評鑑】",
+      "第8屆第1會期、第2會期司法法制委員會績優立委",
+      "（註：財經立法促進院自第8屆第4會期起未進行評鑑）",
+      "【獲頒財團法人二十一世紀基金會-口袋國會評鑑】",
+      "第9屆第1會期全院整體表現優質立委",
+      "第9屆第1會期交通委員會優良立委",
+      "第9屆第3會期全院整體表現優質立委",
+      "第9屆第5會期內政委員會優質立委",
+      "第9屆第6會期全院整體表現優質立委",
+      "第9屆全屆全院整體表現優質立委",
+      "第9屆全屆平地原住民優良立委"
     ],
     "contacts": [
       {
@@ -51459,6 +52186,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "司法及法制委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "司法及法制委員會"
       }
@@ -51566,6 +52299,12 @@
         "session": "7",
         "chair": false,
         "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "交通委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -51658,6 +52397,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "交通委員會"
       }
@@ -51772,6 +52517,12 @@
         "session": "7",
         "chair": false,
         "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "財政委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -51871,6 +52622,12 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經濟委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -51987,6 +52744,12 @@
         "session": "7",
         "chair": false,
         "name": "司法及法制委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "司法及法制委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -52072,6 +52835,12 @@
         "session": "7",
         "chair": false,
         "name": "教育及文化委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "教育及文化委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -52143,6 +52912,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "教育及文化委員會"
       }
@@ -52235,6 +53010,12 @@
         "session": "7",
         "chair": false,
         "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "交通委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -52283,7 +53064,7 @@
       {
         "phone": "04-2330-2559",
         "fax": "04-2330-2551",
-        "address": "臺中市霧峰區樹仁路178號",
+        "address": "臺中市霧峰區中正路831號",
         "name": "霧峰服務處"
       },
       {
@@ -52361,6 +53142,12 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "財政委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -52454,6 +53241,12 @@
         "session": "7",
         "chair": false,
         "name": "外交及國防委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "外交及國防委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -52543,6 +53336,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "教育及文化委員會"
       }
@@ -52650,6 +53449,12 @@
         "session": "7",
         "chair": false,
         "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經濟委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -52732,6 +53537,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "外交及國防委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "外交及國防委員會"
       }
@@ -52825,6 +53636,18 @@
         "session": "7",
         "chair": false,
         "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
       }
     ],
     "term_start": "2016-02-01",
@@ -52958,6 +53781,30 @@
         "session": "7",
         "chair": false,
         "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "7",
+        "chair": true,
+        "name": "經費稽核委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經費稽核委員會"
       }
     ],
     "term_start": "2016-05-26",
@@ -53063,6 +53910,24 @@
         "session": "7",
         "chair": false,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
       }
     ],
     "term_start": "2016-05-26",
@@ -53162,6 +54027,18 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": true,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "財政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": true,
         "name": "程序委員會"
       }
@@ -53267,6 +54144,24 @@
         "session": "7",
         "chair": false,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "社會福利及衛生環境委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "紀律委員會"
       }
     ],
     "term_start": "2016-10-04",
@@ -53326,6 +54221,18 @@
         "session": "7",
         "chair": false,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "程序委員會"
       }
     ],
     "term_start": "2018-07-17",
@@ -53381,6 +54288,18 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "教育及文化委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "程序委員會"
       }
@@ -53444,6 +54363,18 @@
         "session": "7",
         "chair": false,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "社會福利及衛生環境委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "程序委員會"
       }
     ],
     "term_start": "2018-11-09",
@@ -53451,6 +54382,7 @@
       "美國印第安那大學護理博士"
     ],
     "experience": [
+      "美國護理科學院院士(Fellow of the American Academy of Nursing, FAAN)",
       "國立成功大學護理系教授、國際事務長",
       "台灣護理學會副理事長",
       "台灣社區衛生護理學會理事長"
@@ -53489,6 +54421,24 @@
         "session": "7",
         "chair": false,
         "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": true,
+        "name": "紀律委員會"
       }
     ],
     "term_start": "2019-01-02",
@@ -53598,6 +54548,12 @@
         "session": "7",
         "chair": false,
         "name": "司法及法制委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "司法及法制委員會"
       }
     ],
     "term_start": "2019-02-01",
@@ -53645,6 +54601,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "內政委員會"
       }
@@ -53697,6 +54659,12 @@
         "session": "7",
         "chair": false,
         "name": "經濟委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "經濟委員會"
       }
     ],
     "term_start": "2019-03-21",
@@ -53745,6 +54713,12 @@
       {
         "ad": "9",
         "session": "7",
+        "chair": false,
+        "name": "交通委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
         "chair": false,
         "name": "交通委員會"
       }
@@ -53855,6 +54829,26 @@
     "party": "時代力量",
     "caucus": "時代力量",
     "constituency": "全國不分區及僑居國外國民",
+    "committees": [
+      {
+        "ad": "9",
+        "session": "7",
+        "chair": false,
+        "name": "程序委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "內政委員會"
+      },
+      {
+        "ad": "9",
+        "session": "8",
+        "chair": false,
+        "name": "程序委員會"
+      }
+    ],
     "term_start": "2019-09-11",
     "education": [
       "美國壬色列理工學院經濟研究所博士",
