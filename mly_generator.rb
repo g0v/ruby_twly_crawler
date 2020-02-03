@@ -24,6 +24,13 @@ def write_json(data, file=nil)
   File.write(file, JSON.pretty_generate(data))
 end
 
+def write_csv(data, file=nil)
+  unless file
+    file = 'data/mly.csv'
+  end
+  File.write(file, data.join("\n"))
+end
+
 def read_json(file)
   JSON.parse(File.read(file))
 end
@@ -179,7 +186,9 @@ end
 
 def main
   ad = ARGV[0].to_i
+  type = ARGV[1].to_s
   legislators = []
+  legislators_csv = ["id, name"]
   merged_legislators = read_json('data/merged.json')
   merged_legislators.each do |l|
     l['each_term'].each do |term|
@@ -196,10 +205,14 @@ def main
         term['avatar'] = "http://avatars.io/50a65bb26e293122b0000073/#{key}"
         print '.'.green
         legislators << term
+        legislators_csv << "#{term['uid']}, \"#{l['name']}\""
       end
     end
   end
   write_json(legislators, "data/mly-#{ad}.json")
+  if type == "csv"
+    write_csv(legislators_csv, "data/mly-#{ad}.csv")
+  end
   puts "\n"
 end
 
