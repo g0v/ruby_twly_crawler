@@ -74,7 +74,8 @@ def get_ad_url(ad)
     '6' => 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=141',
     '7' => 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=140',
     '8' => 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=139',
-    '9' => 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=109'
+    '9' => 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=37103',
+    '10' => 'https://www.ly.gov.tw/Pages/List.aspx?nodeid=109'
   }
   return ad_pages[ad.to_s]
 end

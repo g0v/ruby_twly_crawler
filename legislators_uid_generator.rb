@@ -1,6 +1,10 @@
 #!/usr/bin/env ruby
 
 require 'json'
+require 'colorize'
+
+$stdout.sync = true
+Dir.chdir(File.dirname(__FILE__))
 
 def write_json(data, file=nil)
   unless file
@@ -68,6 +72,7 @@ def main()
       legislator[:gender] = l['gender']
       uid_list << l['uid'].to_i
       uids << legislator
+      print '.'.green
     end
   end
   additionals = read_json('additional/additionals.json')
@@ -83,8 +88,10 @@ def main()
     unless find_in_uids
       uids << l
     end
+    print '.'.green
   end
   write_json(uids, 'data/legislators_uid.json')
+  puts "\n"
 end
 
 main()

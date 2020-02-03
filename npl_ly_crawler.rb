@@ -199,7 +199,7 @@ end
 def main
   agent = init_mechanize
   legislators = []
-  exist_ads = [*1..9].map { |i| i.to_s }
+  exist_ads = [*1..10].map { |i| i.to_s }
   if ARGV[0]
     ads = [ARGV[0]]
   else

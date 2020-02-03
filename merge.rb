@@ -7,6 +7,8 @@ require 'logger'
 $stdout.sync = true
 Dir.chdir(File.dirname(__FILE__))
 
+$no_uid_legislators = []
+
 module Logging
   def logger
     Logging.logger
@@ -90,6 +92,14 @@ def check_no_uid(uids, npl_ly_infos)
       puts "第#{info['ad']}屆立法委員#{info['name']}找不到UID"
       puts "到職日期：#{info['term_start']}"
       puts "#{info['links']['npl']}"
+      $no_uid_legislators << {
+        ads: [info['ad']],
+        gender: info['gender'],
+        name: info['name'],
+        former_names: [],
+        identifiers: [info['name']],
+        uid: nil
+      }
       result = false
     end
   end
@@ -188,6 +198,7 @@ def main
   npl_ly_infos = read_npl_ly_json()
   ly_infos = read_ly_info_json()
   unless check_no_uid(uids, npl_ly_infos)
+    write_json($no_uid_legislators, 'data/no_uid_legislators.json')
     raise 'some legislator not have uid!'
   end
   legislators = []
